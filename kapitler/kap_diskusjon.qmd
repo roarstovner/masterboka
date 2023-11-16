@@ -1,0 +1,48 @@
+# Diskusjon -- sørg for å zoome ut
+
+Har du hørt at masteren din bør skrives som en trådsnelle? En tråsnelle er bred i begge ender og smal i midten. Masteren din bør være likedan, akkurat som i figuren nedenfor. Du starter bredt i introduksjonen med å aktualisere problemstillingen din ved å vise til samfunnssituasjonen eller forskningsproblemer eller noe annet. Teksten blir smalere og smalere gjennom teoriedelen, og i metoden og resultatseksjonen er teksten veldig snever og handler om lite annet enn din master og din analyse. I Diskusjonsdelen vider teksten seg ut og ser helhetlig tilbake på resultatene og diskuterer konsekvensene.
+
+![Trådsnelle](figurer\tradsnelle.png){#fig-tradsnelle fig-alt="En trådsnelleform som er vid øverst der det står Introduksjon og blir tynnere gjennom Teori og Metode, er kjempetynn gjennom Resultater og blir videre til Diskusjon/Konklusjon." width=50%}
+
+Studenter fikser å starte bredt og å zoome inn. Det de ikke fikser er å zoome ut igjen på slutten.
+
+## Hva gjør studenter i stedet for å zoome ut?
+
+Ofte zoomer ikke studenter ut når de "sammenlikner funnene opp mot teori og eksisterende litteratur". Da blir ofte diskusjonskapittelet en forvirrende gjennomgang av mange små funn fra resultatdelen og hvordan disse relaterer til tidligere litteratur. Kanskje slik som dette:
+
+> Analysen viste at Geir og Iman så på glosepugging som nødvendige hjemmelekser. Dette samsvarer med Delani & Nosa (2018), som så det samme hos engelsklærere i Spania, men er ulikt Johannsons (1992) studie i Sverige.
+
+Kanskje benyttes begreper og forkortelser fra analyseverktøyet, noe som forverrer situasjonen betraktelig:
+
+> Hos tre lærere var det høyere innslag av GOFU enn GOBA (18% mot 40%), og dette gjaldt spesielt i segmentene kodet som _Recursive ongoing discourse_. Dette strider mot tidligere funn i litteraturen, der det var ganske likt innslag og GOFU og GOBA i alle typer segmenter utenom _Directed conclusion_ (Nutty & Giln, 2001; Nutty, Giln & O'Riley, 2004).
+
+Eller kanskje ser studenten seg nødt til å vise til dataene, for eksempel gjennom transkripsjoner:
+
+> Elever føler mer tilhørighet til klassen og lærer mer når læreren tar opp innspillene deres i helklassesamtaler (Dysthe, 2001). Dette samsvarer med Lærer 2 sitt utsagn om at "jeg synes liksom jeg merker at elevene sitter mer fremme i stolene sine når jeg sier ting som at 'husker dere Iben sitt argument?' Og da tror jeg eleven som blir nevnt også føler at det den sier er viktig."
+
+Dataene har du benyttet til å underbygge analysen som du la frem i resultatdelen. Det er sjeldent man trenger å referere til dataene i diskusjonen.  
+
+Andre ganger benytter studenten mye av diskusjonsdelen til å besvare forskningsspørsmålene. Da blir det lite eller ingen plass igjen til noen diskusjon, så [besvar heller forskningsspørsmålene i resultatdelen](kap_resultat.html#sec-besvare).
+
+## Start diskusjonsdelen med å oppsummere resultatene på forskningsspørsmålene
+
+
+## Hva skal man diskutere da?
+
+
+### Hva er betyr resultatene? 
+
+
+
+### Hva er implikasjonene av resultatene?
+
+
+
+### Hva er begrensningene?
+
+
+### Hva bør man gjøre nå?
+
+
+
+

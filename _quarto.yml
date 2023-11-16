@@ -1,0 +1,42 @@
+project:
+  type: book
+
+book:
+  title: "Tips til masterskriving for lærerstudenter"
+  author: "Roar Bakken Stovner"
+  date: "2023-02-21"
+  date-format: "DD.MM.YYYY"
+
+  chapters:
+    - index.qmd
+    - kapitler/intro.qmd
+    - part: "Generelle tips til mastergraden"
+      chapters:
+        - kapitler/tidsplan.qmd
+        - kapitler/sammenheng.qmd
+        - kapitler/veilederen.qmd
+        - kapitler/skrivefilosofi.qmd
+        - kapitler/generelle_skrivetips.qmd 
+    - part: "Tips til hvert kapittel"
+      chapters:
+        - kapitler/kap_introduksjon.qmd
+        - kapitler/kap_teori.qmd
+        - kapitler/kap_metode.qmd
+        - kapitler/kap_resultat.qmd
+        - kapitler/kap_diskusjon.qmd
+        - kapitler/kap_konklusjon.qmd
+
+    - kapitler/summary.qmd
+    - references.qmd
+
+
+bibliography: references.bib
+csl: apa.csl
+
+format:
+  html:
+    number-depth: 1
+    theme: flatly
+    link-external-newwindow: true
+      #pdf:
+      #number-depth: 1

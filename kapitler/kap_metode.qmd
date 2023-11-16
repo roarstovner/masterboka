@@ -1,0 +1,72 @@
+# Metode
+
+Min erfaring er at studentene skriver ganske gode metodedeler og at det ikke volder dem alt for store kvaler. 
+
+## Beskriv hva du gjorde og hvorfor (og eventuelt hvordan dette påvirker resultatene dine)
+
+Metodekapittelet er enkelt, du skal bare forklare _hva du gjorde_ og _hvorfor_. _Hva du gjorde_ ser slik ut:
+
+> Jeg intervjuet elevene i grupper.
+
+_Hvorfor_ du gjorde det ser slik ut:
+
+> Jeg valgte gruppeintervju fordi jeg da kan intervjue flere elever og fordi gruppedynamikken ofte gjør at deltakerne får ideer fra hverandre slik at man samlet sett får flere syn fra informantene enn om man hadde intervjuet dem hver for seg (Kvale et al., 2015).
+
+Du får bedre begrunnelser for _hvorfor_ hvis du også drøfter hvordan valgene kan påvirke resultatene dine negativt: 
+
+> Kanskje vil noen av elevene kvie seg for å si ting i et gruppeintervju som de hadde sagt til meg i et individuelt intervju, for eksempel hvis de synes det er litt flaut eller de tror at de andre elevene i gruppa vil være uenige. Siden tematikken i min studie hverken er spesielt kontroversiell eller følsom, tror jeg sjansen for dette er liten og veies opp av fordelene med gruppeintervju.
+
+## Skriv hva som gikk bra og ikke bra
+
+Det vekker tillit at man evaluerer hvordan utførelsen av metodene gikk. Det er en ting å si noe om hvorfor du valgte gruppeintervju, slik som over. Det er noe annet å si hvordan gruppeintervjuene gikk:
+
+> I tre av de fire gruppeintervjuene hadde deltakerne god dynamikk ved at de bygget på hverandres ideer og at alle kom til orde. I den siste gruppa var det to informanter med sterke personligheter som hadde mye på hjertet og to informanter som knapt kom til orde. Da jeg hørte på intervjuene innså jeg at jeg kunne ha gjort en bedre jobb med å delegere ordet til de to som ikke fikk sagt så mye.
+
+Masterstudenter tenker ofte de ikke kan skrive slikt fordi det er "uvitenskapelig" eller at de da forteller om dataene før resultatdelen. Jeg synes man bør skrive slikt, spesielt i kvalitativ forskning. (Noen velger å skrive slikt i resultatdelen, og det er også greit.)
+
+Det er mange aspekter ved metoden du kan evaluere om gikk bra eller ikke. Kanskje var det vanskelig å analysere dataene som planlagt? Kanskje var det overraskende lett å rekruttere informanter og du fikk så mange henvendelser at du måtte gjøre en utvelgelse? Kanskje ble lyden dårlig? Kanskje streiket skjermopptaket av elevenes skjerm streiket halveis ut i økta? Kanskje sa en informant noe som var så interessant at du endret planene dine og la til et forskningsspørsmål? Skriv om slikt. 
+
+## Skriv i preteritum
+
+Ofte skriver masterstudenter metodedelen før resultatene er klare. Da blir det naturlig å skrive i presens ("jeg intervjuer fire lærere"), eller futurum, ("jeg skal intervjue fire lærere"). Det er fungerer godt rent språklig, men det er vanligere å skrive i preteritum ("jeg intervjuet fire lærere"). Fra leseren sitt perspektiv gir dessuten dette mer mening --- masteroppgaven leses jo etter at den er ferdig.
+
+## Bruk vanlig oppbygning
+
+Metodedelen er den mest skjematiske delen av vitenskapelige artikler, så leseren forventer den vanlige oppbygningen. Jeg har ikke inntrykk av at denne blir fortalt til masterstudenter noen gang, for de velger ofte en annen kreativ oppbygning. Her er den hemmelige oppbygningen du bør bruke:
+
+__Design__ Beskriv forskningsdesignet. (Kvalitativ intervjustudie? Casestudie? Kvantitativ tverrsnittsundersøkelse med spørreskjema? Action-research? Intervensjon eller ren observasjon?) Beskriv kanskje vitenskapsteoretisk ståsted (positivstisk? postmoderne? kritisk teori? feministisk?)
+
+__Kontekst og utvalg__ Beskriv relevant kontekst som læreplan, skoleforhold, hjemmeforhold, satsinger i kommunen. Beskriv relevant informasjon om utvalget. Har du mennesker i utvalget beskriver du hvordan du rekrutterte dem og antall, alder, kjønn, erfaring --- alt du synes er relevant for forskningsspørsmålet. Hvis utvalget består av noe annet, for eksempel lærebøker, finner du sikkert ut av hva som er relevant å skrive om dem.
+
+__Datainnsamling og prosedyrer__ Beskriv hva du rent praktisk gjorde da du samlet data. "Jeg samlet deltakerne i et grupperom på skolen der elevene gikk" eller "jeg lånte bøkene på biblioteket og fant alle kapitlene om tidlig leseopplæring" eller "jeg satt bakerst i klasserommet og observerte med penn og notatblokk". Skriv hvordan det gikk, om deltakerne snakket lett under intervjuet, om det var vanskelig å skille ut tekstene om tidlig leseopplæring eller om at halve klassen gjorde aktiviteter på gangen slik at du ikke klarte å observere alle. Beskriv materialene du benyttet, slik som spørreundersøkelsen eller kunnskapstesten.
+
+__Analyse__
+
+Beskriv hvordan du analyserte dataene. Se mer i [@sec-to-be-written].
+
+__Etiske betraktninger__
+
+__Forskningens troverdighet__ Her skriver du om ting som reliabilitet og valididet eller gyldighet, pålitelighet og overførbarhet.
+
+Det finnes andre måter å skrive metodedelen på, for eksempel mer fortellende metodeler i etnografiske studier, men jeg tror de fleste masterstudenter bør bruke en oppbygning à la det ovenstående.
+
+## Du trenger ikke å skrive metodelærebok, det holder å beskrive din metode
+
+I starten av metodekapittelet skriver masterstudenter mye generelt vissvass som de parafraserer fra metodelærebøker.
+
+> Samfunnsvitenskapelig forskning handler om å [...]
+>
+> I samfunnsvitenskapene skiller man ofte mellom _kvalitativ_ og _kvantitativ_ metode [...]
+>
+
+Dette er ikke spesifikt nok knyttet til oppgaven din til at det er interessant. Det er bedre å hoppe rett til å beskrive din metode og hvorfor du valgte den:
+
+> Jeg valgte en kvalitativ tilnærming fordi [...]
+
+Det samme skjer ofte i delkapittelet om forskningens troverdighet der du skriver om validitet og reliabilitet og liknende. Leseren vet hva validitet og reliabitet er, så du kan hoppe rett på å diskutere din masteroppgave.
+
+Dessverre har masteroppgaver et minimumskrav til antall ord man må skrive, og dette kravet er ofte skyhøyt. På lærerutdanningen på OsloMet må man skrive over 18 000 ord for å være innenfor kravet! Hvis du trenger å skrive flere ord kan du jo alltids skrive læreboka i metode i metodekapittelet ditt --- jeg tror ikke det trekker ned karakteren.
+
+## Videre lesning {.unnumbered}
+
+Jeg liker å se på APA sine "reporting guidelines" for om det er noe jeg har glemt i metodedelen. De har en for [qualitative research](https://apastyle.apa.org/jars/qual-table-1.pdf) og en for [quantitative research](https://apastyle.apa.org/jars/quant-table-1.pdf). Kanskje verdt å se om noen av punktene under "Method" angår deg? (APA er forresten den største foreningen for de som forsker på psykologi i amerika. Det er den som lagde referansestilen du må bruke i alle oppgavene dine.)

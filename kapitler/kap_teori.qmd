@@ -1,0 +1,122 @@
+# Teori
+
+I 99% av tilfellene er teoridelen den kjedeligste delen av masteroppgaven å lese og alle kjedelige teorideler lider av samme sykdom: de er ikke koblet til resten av oppgaven. Problemet med slike teorideler er ikke at de er upresise eller irrelevante; tvert imot, de kan være svært presise gjengivelser av teori som er høyst relevant for masteroppgaven din. Problemet er at teoridelen kunne vært klippet ut og limt inn i en hvilken som helst annen masteroppgave som dreier seg om de samme temaene. Dette holder ikke. Du må skrive teoridelen slik at leseren skjønner hvordan den hjelper deg med å besvare dine forskningsspørsmål, hvordan den påvirker dine metodiske valg, og hvordan den påvirker dine resultater.
+
+## Vanlig og middelmådig teoridel
+
+La oss ta et eksempel. Vi tenker oss en masterstudent i matematikkdidaktikk som skal prøve å skape indre motivasjon for måling og måleenheter ved å ha uteskole i skogen med tredje trinn. Studenten har planlagt en haug med aktiviteter som skal suge elevene inn i måleenhetenes spennende verden.
+
+
+![Sikkert moro å skrive master om uteskole. 📷Markus Spiske, Unsplash.com](figurer\uteskole.jpg){fig-alt="Bilde av to barn i skogen som støtter store pinner mot hverandre." width=50%}
+
+Utvalgte elever skal ha på seg kamera mens de gjør aktivitetene slik at studenten kan observere elevene og avgjøre om de er motiverte. I teoridelen har studenten planlagt å skrive om motivasjon, uteskole og didaktikk om måling og måleenheter. Teoridelen ser slik ut:
+
+::: {.callout-warning}
+# Middelmådig teoridel {.unnumbered}
+
+## Teori {.unnumbered}
+
+I denne teoridelen skal jeg først presentere teori om motivasjon. Deretter skriver jeg om uteskole og hvordan man kan drive matematikkundervisning ute. Til slutt presenterer jeg teori om hvordan barn lærer måling og måleenheter og hvordan det kan undervises.
+
+### Motivasjon {.unnumbered}
+
+[Presis oppsummering av relevant teori om motivasjon.]
+
+### Uteskole {.unnumbered}
+
+[Presis oppsummering av relevant teori om uteskole.]
+
+### Måling og måleenheter {.unnumbered}
+
+[Presis oppsummering av relevant teori om måling og måleenheter.]
+
+:::
+
+Denne teoridelen oppfyller flere av funksjonene til en teoridel --- for eksempel vil en slik teoridel definere begreper presist og gi leseren nok bakgrunnsinformasjon til å skjønne resten av oppgaven. Men denne teoridelen har én klar mangel; den er ikke koblet til forskningsspørsmålet og metoden. Den samme teoridelen kunne stått i masteroppgaven til en masterstudent som undersøker motivasjon, uteskole og måleenheter med helt andre forskningsspørsmål og metoder. Den kunne stått i oppgaven til en student som
+
+- spør elever om hvordan det var å gjøre måleaktiviteter på leirskole
+- gjør en litteraturstudie om motivasjon for måling på uteskole
+- intervjuer lærere som underviser måling på uteskole om elevenes motivasjon
+
+Disse masteroppgavene bør ikke ha samme teoridel. De blir bedre hvis du skreddersyr teoridelen til dem. Da må teoridelen knyttes til forskningsspørsmålene og til metoden.
+
+## Hvorfor blir teoridelen bedre hvis den er spesifikt knyttet til forskningsspørsmålet og metoden?
+
+Jo, fordi
+
+1. teoridelen vil gi leseren mer presis innsikt i hvordan du tenker om begrepene. For eksempel er leseren mer interessert i å lese om hva indre motivasjon er i uteskole-konteksten du undersøker enn hva indre motivasjon er generelt.
+4. ditt teorisyn avgjør hva som er riktig metode for å besvare forskningsspørsmålet. For eksempel er det helt avgjørende for hvilken metode du velger om du tenker elever er indre motivert for det de sier er gøy eller det de velger å leke mens de skal gjøre måleaktiviteter på uteskole. I det første tilfellet bør du intervjue elever og i det andre bør du observere dem. Derfor er det flott å refere til teorien når du argumenterer for metoden.
+4. du må tenke nøyere gjennom hvordan _du_ forstår teorien. Å skrive en generell teoridel krever kun å parafrasere det forskere har skrevet før deg. Å knytte teorien til ditt forskningsspørsmål og din metode er derfor et viktig redskap for å tenke klart om teorien.
+1. det gjør masteren mer lettlest siden leseren stadig blir påminnet viktig kontekst. I en vanlig teoridel må leseren lese tre-fem tusen ord --- det tar mellom 15 og 25 minutter --- og holde i bakhodet hele tiden hva forskningsspørsmålene og metoden var. Dette er krevende!
+2. det gjør teoridelen morsommere å lese. Leseren er trolig luta lei av å lese generelt om motivasjon, så det inkludere uteskole og måling når du skriver om motivasjon spriter opp teksten.
+
+
+
+## Hvordan knytte teoridelen til forskningsspørsmålet og metoden?
+
+### Innled med hvilke funksjoner teoridelen har i oppgaven din {#sec-teorifunksjoner}
+
+For å knytte teoridelen din til resten av oppgaven må du finne ut hvilke funksjoner teorien har i resten av oppgaven. Dette er dessverre vanskelig og krever hardt, kreativt tankearbeid. Fordelen er at når du vet hvilke funksjoner teorien har i oppgaven din, er teoridelen lettere å skrive. (Og teoridelen er for de fleste den vanskeligste delen å skrive.)
+
+En god øvelse er å skrive et avsnitt som ikke gjør annet enn å beskrive teoriens funksjoner i oppgaven din. Dette erstatter det vanlige avsnittet som innleder teorideler, "Først beskriver jeg teori om _ditt_. Deretter presenterer jeg to teorier om _datt_, før jeg avslutter med å beskrive _dutt_."
+
+For å skjønne hva jeg mener fortsetter vi med eksempelet om motivasjon, uteskole og måling. Hva om masterstudenten hadde klare nok tanker om teoridelen til at den kunne innledes med dette avsnittet? 
+
+> # Teori {.unnumbered}
+> Siden forskningsspørsmålet mitt handler om hvordan en uteskole-intervensjon påvirker elevenes indre motivasjon for måling, starter jeg med å definere indre motivasjon. Studien min baserer seg grunnleggende på en sosiokulturell forståelse av læring og motivasjon av to grunner; intervensjonen krever at elever samarbeider og jeg måler elevenes indre motivasjon ved å se etter trekk i samtalene deres. Derfor innleder jeg teorikapittelet med Walkers sosiokulturelle perspektiver på motivasjon (2010) og benytter hans definisjoner av indre og ytre motiasjon. Deretter presenterer jeg to motstridende syn i litteraturen om uteskole: uteskole som en arena for målrettet læring eller en arena for fri utforsking. Min intervensjon benytter uteskole som en arena for målrettet læring, så dette synet forklarer hvordan min intervensjon kan fungere, men jeg presenterer også det motsatte synet fordi så små barn endrer alle arenaer til arenaer for fri utforsking uansett. Til slutt presenterer jeg prinsipper for hvordan elever kan oppnå dyp forståelse av måling. Jeg har utformet intervensjonen basert på disse prinsippene og håper de kan føre til økt indre motivasjon hos elevene. Jeg bruker også disse prinsippene til å analysere om forskjeller i indre motivasjon mellom gruppere kan skyldes at de i forskjellig grad tok del i aktivitene på måter som bygger forståelse.
+
+Dette avsnittet presenterer ikke bare teorien som står i teorikapittelet, det presenterer også funksjonen teorien har i oppgaven. Du kan også se på det som begrunnelser for hvorfor du har tatt med teorien. Jeg ser på avsnittet som en programerklæring for hva du ønsker å oppnå i teorikapittelet. Er ikke det flott? Vil ikke dette hjelpe deg med å skrive et målrettet godt teorikapittel?
+
+Noen av funksjonene gjelder metodedelen, for eksempel i de to siste setningene. Andre funksjoner gjelder forskningsspørsmålene, for eksempel de to første setningene om indre motivasjon.
+
+Et slikt innledningsavsnitt er en glimrende start, men du bør også skrive frem disse funksjonene i resten av teorikapittelet.
+
+### Benytt eksempler som er tett knyttet til masteren din for å forklare teorien
+
+Underveis i teorikapittelet benytter man ofte eksempler for å forklare begrepene man bruker. Knytt disse eksemplene til oppgaven din.
+
+Når du skriver om indre motivasjon bør du ikke bruke forslitte eksempler om å føle glede og spenning ved problemløsningsoppgaver. Du må eksemplifisere indre motivasjon _for måling i uteskole_. Du må skrive om iveren etter å finne ut hvor mange pinner høyt treet var og hvor mange blader man trenger for å dekke søledammen.
+
+For å eksemplifisere ytre motivasjon må du for alt i verden _ikke_ skrive om presset for å få gode karakterer. Elevene du undersøker går jo i tredjeklasse! Du må skrive om at elevene kanskje blir ytre motivert av å ville være første gruppe som er ferdig og kan springe tilbake til læreren, at de har lyst til å få bedre målinger enn de andre gruppene, eller at de vil dekke søledammen med blader fordi det var gøy å få bladene til å flyte.
+
+### Skriv mer informative overskrifter
+
+Overskriftene i den middelmådige teoridelen var "Motivasjon", "Uteskole" og "Måling og måleenheter". Disse overskriftene inviterer til å skrive for generelt og å ikke knytte teorien til din oppgave.
+
+Hvis du har identifisert teorikapittelets funksjoner (@sec-teorifunksjoner) bør det være mulig for deg å skrive mer informative overskrifter. Det er bare å bruke denne funksjonen som overskrift.
+
+Du kunne byttet ut
+
+- "Motivasjon" med "En sosiokulturell forståelse av motivasjon"
+- "Uteskole" med "Uteskole som arena for målrettet læring eller frilek"
+- "Måling og måleenheter" med "Prinsipper for læring av måling og måleenheter anvendt i en uteskole-setting"
+
+Leseren skjønner da hva delkapittelet forsøker å oppnå.
+
+### Ta ordet -- ikke (bare) gjem deg bak andres ord
+
+Hvis du følger rådene over mister du muligheten til å gjemme deg bak andres ord. I mange teorideler er avsnittene skrevet slik som dette:
+
+> Ryan & Deci (1989) sin motivasjonsteori sier at (...)
+>
+> I tillegg til dette skriver Wæge (2016) at motivasjon er (...)
+>
+> Til slutt viser forskning at motivasjon (...)
+
+Her gjemmer masterstudenten seg bak forfatterne. Det er som om masterstudenten ikke har noen egne tanker om temaet. Jeg mistenker masterstudenter gjør dette fordi de tenker funksjonen til teorikapittelet er å lære bort teorien til leseren. Du vet nå at teorikapittelet har mange andre funksjoner.
+
+Hvis du leser avsnittet i [@sec-teorifunksjoner] ser du en tydelig "jeg-stemme". Denne må få skinne i teorikapittelet. Teorikapittelet er ikke kun et sted hvor nedstøvede forfattere blir gjengitt (selv om det unektelig vil være hoveddelen av kapittelet). Teorikapittelet er også et sted hvor du forteller hvordan du forstår teoribegrepene, hvordan du tenker de påvirker metoden din, hvordan du synes de hjelper å besvare forskningsspørsmålet ditt.
+
+Du finner ingen artikler med ferdig teori for motivasjon om måling på uteskole. Du må skape den teoretiske syntesen selv. Andre kan ikke snakke for deg. Du må ta ordet.
+
+## Nevn tidligere forskning (Men hva er forskjellen på teori og tidligere forskning?)
+
+:::{.callout-warning}
+Jeg er inspirert av masterne jeg sensurerer. Jeg må dekke dette på et eller annet tidspunkt i løpet av boka.
+:::
+
+# Videre lesning
+
+[Thomas Basbøll på youtube om hvordan man skriver teorikapittelet.](https://youtu.be/Qy9FkhnysBo?t=1298)
+
+

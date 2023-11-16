@@ -1,0 +1,124 @@
+# Resultater -- de skuffede forventningers kapittel {#sec-resultater}
+
+Å lese en typisk resultatdel fortoner seg slik som dette:
+
+> Rull ut den røde løperen -- her kommer resultatdelen! Endelig skjer det! Øyeblikket der alle leserens forventninger innfris! Endelig skal forskningsspørsmålene besvares!
+> 
+> Men hva er dette? Resultatdelen kommer, men han var langt ifra så glitrende som du forestilte deg. Han presenterer utdrag fra dataene (fint!) og detaljer om hvordan de er analysert (også fint!), men svarene på forskningsspørsmålene forteller han ingenting om. Jaja, de kommer sikkert snart.  
+> 
+> Aber nicht. Nå har resultatdelen holdt på kanskje 15--20 minutter og fremdeles står han der og mumler videre om at _Informant 1_ sa ditt og datt og at dette kan tolkes som et eksempel på _kontrollerende ytre motivasjon_ og at _Informant 2_ sa noe annet og at dette kan tolkes som det motsatte. Nå måååååå han da komme til poenget snart?
+> 
+> Men nei. Han pakker sakene sine og forlater scenen. Ingen fanfarer til denne utmarsjen, nei. Absolutt tystnad, ingen sier et ord. Litt klein stemning, egentlig.
+>
+> Ånei, ånei, og her kommer diskusjonsdelen; hva i huleste skal hun snakke om? Hvordan kan hun drøfte masterens betydning når resultatdelen ikke besvarte forskningsspørsmålene engang? Dette blir skikkelig magaplask ...
+
+Jeg tror poenget med metaforen over er tydelig nok, men jeg kan da si det i klartekst også: **resultatdelen må besvare forskningsspørsmålene**. Joda, svarene på forskningsspørsmålene må underbygges med utdrag fra dataene og analysen. Men problemet med alt for mange masteroppgaver er at de _kun_ serverer utdrag fra dataene og analysen. Uansett hvor mange utdrag fra dataene du pælmer oppi resultatdelen utgjør de ikke svar på forskningsspørsmålene.
+
+Så hvordan kan du besvare forskningsspørsmålene? Vel, på mange forskjellige måter, og det avhenger av hvilket forskningsdesign du har valgt. Så jeg presenterer flere muligheter, så får du velge noen løsninger og sette dem sammen på en måte som du er tilfreds med.
+
+## Måter å besvare forskningsspørsmålene på {#sec-besvare}
+
+La oss si at du i masteren din har observert grupper av elever mens de gjør forsøk i naturfagstimen. Problemstillingen din dreier seg om hvordan naturfagsforsøk kan støtte elevenes skaperglede, engasjement og utforskertrang. Du har utarbeidet to forskningsspørsmål:
+
+i. Hvordan kommer elevenes skaperglede, engasjement og utforskertrang til uttrykk i forberedelses-, undersøkelses- og konsolideringsfasen av eksperimentet?
+ii.  Hva gjør læreren for å fremme skaperglede, engasjement og utforskertrang?
+iii. Hvorfor synes elevene eksperimentet (ikke) var engasjerende?
+
+Nå skal du ikke bare drone i vei med detaljer fra analysen, du skal besvare forskningsspørsmålene for leseren. Kanskje på disse måtene:
+
+### 1. En underoverskrift per forskningsspørsmål
+
+Leseren blir hjulpet i gang hvis du har en underoverskrift per forskningsspørsmål. En måte er å bare gjenta forskningsspørsmålet i underoverskriften. En annen måten er å gjøre om forskningsspørsmålet til en påstand, altså å endre "hva gjør læreren for å fremme skaperglede, engasjement og utforskertrang?" til "hva læreren gjorde for å fremme skaperglede, engasjement og utforskertrang".
+
+Under hver underoverskrift besvarer du ganske enkelt det tilhørende forskningsspørsmålet ved å vise utdrag fra analysen.
+
+Et godt eksempel på en resultatdel som har underoverskrifter for hvert forskningsspørsmål er Marianne Aasland sin. REF!! Sammenlikn forskningsspørsmålene på s. 9-ish med underoverskriftene hennes på s. 36-51-ish. Ingen tvil om at hun besvarer forskningsspørsmålene og har en oppgave med [god sammenheng](@sammenheng). REF
+
+### 2. En underoverskrift per hovedresultat
+
+En annen måte å hjelpe leseren på er å ha en underoverskrift per hovedresultat. (I forrige delkapittel var det en underoverskrift per spørsmål, ikke per resultat.) Jeg gir noen eksempler:
+
+- I forberedelsesfasen viste elevene utforskertrang ved å høylytt spekulere om ulike hypoteser
+- I undersøkelsesfasen viste elevene skaperglede da de løste problemer med utstyret
+- Andre elever mistet engasjementet fordi utstyret ikke fungerte
+- I utforskningsfasen støttet læreren ikke elevenes skaperglede, engasjement og utforskertrang fordi hun var opptatt med å bistå elevene med utstyret
+
+Under hver av disse overskriftene viser du utsnitt fra dataene og analysen som underbygger at dataene dine viser det du sier de viser. Slike overskrifter kan bli ganske lange, men det synes jeg ikke gjør noe, de er jo kjempeinformative -- hver av dem er en sentral del av hvordan du besvarer forskningsspørsmålet.
+
+Du kan kombinere underoverskrifter for forskningsspørsmålene og for hovedresultatene. Ha underoverskrifter for forskningsspørsmålene og under-underoverskrifter for hovedresultatene, slik som dette:
+
+- Hvordan elevenes skaperglede, engasjement og utforskertrang kommer til uttrykk i forberedelses-, undersøkelses- og konsolideringsfasen
+  - I forberedelsesfasen viste elevene utforskertrang ved å høylytt spekulere om ulike hypoteser
+  - I undersøkelsesfasen viste elevene skaperglede da de løste problemer med utstyret
+  - Andre elever mistet engasjementet fordi utstyret ikke fungerte
+  - ...
+- Hva læreren gjorde for å fremme skaperglede, engasjement og utforskertrang
+  - I utforskningsfasen støttet læreren ikke elevenes skaperglede, engasjement og utforskertrang fordi hun var opptatt med å bistå elevene med utstyret
+  - ...
+- Hvordan synes elevene eksperimentet (ikke) var engasjerende?
+  - ...
+
+--------
+FINN EKSEMPEL!!
+
+--------
+
+### 3. Oppsummer på slutten
+
+Det kan være du nå tenker noe slikt som dette:
+
+> "Stopp en halv! Burde man ikke skrive om klassens arbeid med forsøket fra start til slutt? Da vil vil det bryte opp flyten hvis du først besvarer første forskningsspørsmål om elevene og deretter andre forskningsspørsmål om læreren? Da vil leseren miste dyrebar informasjon om gangen i timen og hvordan alt henger sammen?"
+
+Dette er en herlig tanke! Det kan absolutt være helt korrekt! Derfor må du tilpasse resultatdelen til forskningsdesignet ditt! Men det fraskriver deg ikke ansvaret for at leseren må få vite svarene på forskningsspørsmålene i resultatdelen.
+
+En nødløsning som kan fungere ganske godt, er å ha en del på slutten av resultatdelen der du oppsummerer forskningsspørsmålene. Du kan se på masteren til @geitle2022 [s. 52-53] for et eksempel. Han har fortalt om dataene og analysen i kronologisk rekkefølge (s. 42-52). Etter å ha lest disse sidene er det mildt sagt uklart hva svarene på forskningsspørsmålene er, men heldigvis kommer "Oppsummering av sentrale funn" på side 52. [^geitle]
+
+[^geitle]: Hvis du vil være veldig kritisk kan du sammenlikne forskningsspørsmålene hans (s. 13) med funnene hans. Ser du at funnene ikke svarer på forskningsspørsmålene? Dette er vanlig. Det er dette jeg mener med at "sammenheng er sneaky", se @sammenheng.
+
+    Hvis du leser dette Mr. Geitle: Jeg synes masteren din er knall! Jeg har til og med [referert til den på s. 26 her.](https://www.udir.no/globalassets/blokker/tall-og-forskning/brukerundersokelsene/uio_ils_2023_-a-mester-livet-i-8.-klasse.pdf)
+
+### 4. Velg forskningsspørsmål som er lette å besvare
+
+Enkelte forskningsspørsmål innbyr til å bli tydelig besvart, og andre innbyr til å bli ullent besvart. La oss vurdere det tredje forskningsspørsmålet over:
+
+> iii. Hvorfor synes elevene eksperimentet (ikke) var engasjerende?
+
+Dette forsningsspørsmålet inviterer til å gjengi masse utdrag fra intervjuer med elevene, og kanskje står man igjen på slutten uten at forskningsspørsmålet er tydelig besvart.
+
+Sammenlikn med denne varianten av samme forskningsspørsmål:
+
+> iii. Hvilke grunner oppgir elevene for at eksperimentet (ikke) var engasjerende?
+
+Denne varianten inviterer til å skrive "Elevene oppga sju grunner til at eksperimentet var engasjerende og fire grunner til at det ikke var engasjerende" og deretter presentere alle grunnene med utdrag fra analysen som oppbakking. Fordi man har byttet ut det litt vage "hvorfor" med det veldig konkrete "hvilke grunner" blir det lettere å skrive konkrete resultater.
+
+Se for eksempel på mastergraden til Rhea Liang @liang2019. Forskningsspørsmålet hennes er "Hvorfor slutter kvinnelige kirurger i løpet av spesialiseringen?", men hun har besvart forskningsspørsmålet ved å identifisere faktorer som påvirker kvinner til å slutte. Hun har altså gjort det litt vage "hvorfor" om til det veldig konkrete "hvilke faktorer påvirker".[^liang]
+
+[^liang]: Dette er blant mine favorittmastere. Den ble publisert i The Lancet, et topp-tidsskrift innen medisin!
+
+### 5. Lag en tabell som oppsummerer funnene
+
+En tabell (eller en figur) kan i noen tilfeller gi god oversikt over funnene og hjelpe leseren med å skjønne hva svarene på forskningsspørsmålene er. 
+
+Det første forskningsspørsmålet var ganske omfattende:
+
+> i. Hvordan kommer elevenes skaperglede, engasjement og utforskertrang til uttrykk i forberedelses-, undersøkelses- og konsolideringsfasen av eksperimentet?
+
+Her kan man gi leseren oversikt over de relevante funnene ved å lage en tabell:
+
+|Forberedelse|Undersøkelse|Konsolidering|
+|------	|------	|------	|
+|Høylytt spekulering	|Løse problemer med utstyret	|Gjespe	|
+|Latter over ville hypoteser	|Gi opp på grunn av problemer med utstyret|Spørre når det er friminutt|
+|Krangling om hvilken hypotese som er best	|Legge hypotesen side og finne ut hvorfor det pæra fortsetter å lyse når man seriekobler fingeren til Petter i kretsen	|	|
+|	|	|	|
+
+: Hvordan elevenes skaperglede og engasjement og utforskertrang kom til uttrykk i de forskjellige fasene {#tbl-results-example}
+
+Liang @liang2019 sin master, som jeg nevnte i forrige delkapittel, har forresten også gode eksempler på slike tabeller.
+
+
+## Men dette er ikke nok ...
+
+Jeg håper du har fått hjelp av noen av tipsene, men dessverre er ikke tipsene tilstrekkelige. Brødteksten[^brød] må også hjelpe leseren med å forstå hvordan du besvarer forskningsspørsmålene. Jeg har ikke noe vettugt å si om dette, men jeg håper at skremselsbildet fra innledningen om resultatdelen som prater om analyse ditt og analyse datt og aldri kommer til poenget, hjelper deg med å skrive en tekst som faktisk kommer til poenget, altså besvarer forskningsspørsmålene.
+
+[^brød]: Brødtekst er all den "vanlige" teksten, altså all teksten som avsnittene dine består av.
