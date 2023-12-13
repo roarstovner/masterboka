@@ -1,5 +1,9 @@
-# Preface {.unnumbered}
+# Om boka {.unnumbered}
 
-This is a Quarto book.
+Boka er uferdig, men noen kapitler kan brukes. Enjoy!
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+## Ombruk
+
+Bruk boka til hva du vil, så lenge du lenker tilbake til denne versjonen. Du kan benytte utdrag av boka, skrive den om, selge den og alt mulig annet, men du må tydelig sitere:
+
+[@stovner2023)

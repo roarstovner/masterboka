@@ -12,9 +12,9 @@
 >
 > Ånei, ånei, og her kommer diskusjonsdelen; hva i huleste skal hun snakke om? Hvordan kan hun drøfte masterens betydning når resultatdelen ikke besvarte forskningsspørsmålene engang? Dette blir skikkelig magaplask ...
 
-Jeg tror poenget med metaforen over er tydelig nok, men jeg kan da si det i klartekst også: **resultatdelen må besvare forskningsspørsmålene**. Joda, svarene på forskningsspørsmålene må underbygges med utdrag fra dataene og analysen. Men problemet med alt for mange masteroppgaver er at de _kun_ serverer utdrag fra dataene og analysen. Uansett hvor mange utdrag fra dataene du pælmer oppi resultatdelen utgjør de ikke svar på forskningsspørsmålene.
+Jeg tror poenget med metaforen over er tydelig nok, men jeg kan da si det i klartekst også: resultatdelen må besvare forskningsspørsmålene. Joda, svarene på forskningsspørsmålene må underbygges med utdrag fra dataene og analysen. Men problemet med alt for mange masteroppgaver er at de _kun_ serverer utdrag fra dataene og analysen. Uansett hvor mange utdrag fra dataene du pælmer oppi resultatdelen utgjør de ikke svar på forskningsspørsmålene.
 
-Så hvordan kan du besvare forskningsspørsmålene? Vel, på mange forskjellige måter, og det avhenger av hvilket forskningsdesign du har valgt. Så jeg presenterer flere muligheter, så får du velge noen løsninger og sette dem sammen på en måte som du er tilfreds med.
+Så hvordan kan du besvare forskningsspørsmålene? Vel, på mange forskjellige måter, og det avhenger av hvilket forskningsdesign du har valgt. Jeg presenterer flere muligheter å presentere resultatene på, så får du velge noen og sette dem sammen på en måte som du er tilfreds med.
 
 ## Måter å besvare forskningsspørsmålene på {#sec-besvare}
 
@@ -32,7 +32,7 @@ Leseren blir hjulpet i gang hvis du har en underoverskrift per forskningsspørsm
 
 Under hver underoverskrift besvarer du ganske enkelt det tilhørende forskningsspørsmålet ved å vise utdrag fra analysen.
 
-Et godt eksempel på en resultatdel som har underoverskrifter for hvert forskningsspørsmål er Marianne Aasland sin. REF!! Sammenlikn forskningsspørsmålene på s. 9-ish med underoverskriftene hennes på s. 36-51-ish. Ingen tvil om at hun besvarer forskningsspørsmålene og har en oppgave med [god sammenheng](@sammenheng). REF
+Et godt eksempel på en resultatdel som har underoverskrifter for hvert forskningsspørsmål er Marianne Aasland sin [@aasland2023]. Sammenlikn forskningsspørsmålene på s. 9-ish med underoverskriftene hennes på s. 36--51-ish. Ingen tvil om at hun besvarer forskningsspørsmålene og har en oppgave med [god sammenheng](@sammenheng).
 
 ### 2. En underoverskrift per hovedresultat
 
@@ -67,7 +67,7 @@ FINN EKSEMPEL!!
 
 Det kan være du nå tenker noe slikt som dette:
 
-> "Stopp en halv! Burde man ikke skrive om klassens arbeid med forsøket fra start til slutt? Da vil vil det bryte opp flyten hvis du først besvarer første forskningsspørsmål om elevene og deretter andre forskningsspørsmål om læreren? Da vil leseren miste dyrebar informasjon om gangen i timen og hvordan alt henger sammen?"
+> "Stopp en halv! Burde man ikke skrive om klassens arbeid med forsøket fra start til slutt? Dine forslag vil bryte opp flyten! Ved å først besvare første forskningsspørsmål om elevene og deretter andre forskningsspørsmål om læreren vil leseren miste dyrebar informasjon om gangen i timen og hvordan alt henger sammen!"
 
 Dette er en herlig tanke! Det kan absolutt være helt korrekt! Derfor må du tilpasse resultatdelen til forskningsdesignet ditt! Men det fraskriver deg ikke ansvaret for at leseren må få vite svarene på forskningsspørsmålene i resultatdelen.
 
@@ -107,9 +107,9 @@ Her kan man gi leseren oversikt over de relevante funnene ved å lage en tabell:
 
 |Forberedelse|Undersøkelse|Konsolidering|
 |------	|------	|------	|
-|Høylytt spekulering	|Løse problemer med utstyret	|Gjespe	|
-|Latter over ville hypoteser	|Gi opp på grunn av problemer med utstyret|Spørre når det er friminutt|
-|Krangling om hvilken hypotese som er best	|Legge hypotesen side og finne ut hvorfor det pæra fortsetter å lyse når man seriekobler fingeren til Petter i kretsen	|	|
+|Spekulere høylytt	|Løse problemer med utstyret	|Gjespe	|
+|Le over ville hypoteser	|Gi opp på grunn av problemer med utstyret|Spørre når det er friminutt|
+|Krangle om hvilken hypotese som er best	|Legge hypotesen til side og finne ut hvorfor pæra fortsetter å lyse når Petters finger seriekobles til kretsen	|	|
 |	|	|	|
 
 : Hvordan elevenes skaperglede og engasjement og utforskertrang kom til uttrykk i de forskjellige fasene {#tbl-results-example}
@@ -119,6 +119,6 @@ Liang @liang2019 sin master, som jeg nevnte i forrige delkapittel, har forresten
 
 ## Men dette er ikke nok ...
 
-Jeg håper du har fått hjelp av noen av tipsene, men dessverre er ikke tipsene tilstrekkelige. Brødteksten[^brød] må også hjelpe leseren med å forstå hvordan du besvarer forskningsspørsmålene. Jeg har ikke noe vettugt å si om dette, men jeg håper at skremselsbildet fra innledningen om resultatdelen som prater om analyse ditt og analyse datt og aldri kommer til poenget, hjelper deg med å skrive en tekst som faktisk kommer til poenget, altså besvarer forskningsspørsmålene.
+Jeg håper du har fått hjelp av noen av tipsene, men dessverre er ikke tipsene tilstrekkelige. Brødteksten[^brød] må også hjelpe leseren med å forstå hvordan du besvarer forskningsspørsmålene. Jeg har ikke noe vettugt å si om dette, men jeg håper at skremselsbildet fra innledningen, om resultatdelen som prater om analyse ditt og analyse datt og aldri kommer til poenget, hjelper deg med å skrive en tekst som faktisk kommer til poenget, altså besvarer forskningsspørsmålene.
 
 [^brød]: Brødtekst er all den "vanlige" teksten, altså all teksten som avsnittene dine består av.

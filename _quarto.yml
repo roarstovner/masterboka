@@ -2,10 +2,22 @@ project:
   type: book
 
 book:
-  title: "Tips til masterskriving for lærerstudenter"
+  title: "Smertefri masterskriving -- en bok for lærerstudenter"
   author: "Roar Bakken Stovner"
-  date: "2023-02-21"
+    #date: "2023-02-21"
   date-format: "DD.MM.YYYY"
+  language: nb
+  license: "CC BY 4.0"
+
+  page-footer:
+    left: _Tips til masterskriving for lærerstudenter_ er skrevet av Roar Bakken Stovner
+    right: Boka er skrevet med <a href="https://quarto.org/">Quarto</a>
+
+  site-url: https://robast.quarto.pub/mastertips/
+  repo-url: https://git.cs.oslomet.no/robast/mastertips
+
+  google-analytics: "G-917RCTRH1N"
+    #anonymize-ip: TRUE
 
   chapters:
     - index.qmd
@@ -36,7 +48,13 @@ csl: apa.csl
 format:
   html:
     number-depth: 1
-    theme: flatly
+    theme:
+      light: breezy
+      dark: darkly
     link-external-newwindow: true
       #pdf:
       #number-depth: 1
+  docx:
+    toc: true
+    number-depth: 1
+    link-citations: true

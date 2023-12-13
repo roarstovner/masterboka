@@ -1,3 +1,6 @@
 _book/
 *~
 *.swp
+
+/.quarto/
+.Rproj.user
