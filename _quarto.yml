@@ -2,33 +2,33 @@ project:
   type: book
 
 book:
-  title: "Smertefri masterskriving -- en bok for lærerstudenter"
+  title: "Bedre masterskriving -- en bok for lærerstudenter"
   author: "Roar Bakken Stovner"
-    #date: "2023-02-21"
+  date: "2024-01-01"
   date-format: "DD.MM.YYYY"
-  language: nb
+  language: _languages_nb.yml
+    #section-title-references: "Kilder"
   license: "CC BY 4.0"
 
   page-footer:
-    left: _Tips til masterskriving for lærerstudenter_ er skrevet av Roar Bakken Stovner
+    left: Boka er skrevet av Roar Bakken Stovner og utgitt som [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
     right: Boka er skrevet med <a href="https://quarto.org/">Quarto</a>
 
   site-url: https://robast.quarto.pub/mastertips/
-  repo-url: https://git.cs.oslomet.no/robast/mastertips
+  #repo-url: https://codeberg.org/hocolim/masterboka
 
   google-analytics: "G-917RCTRH1N"
-    #anonymize-ip: TRUE
+      #anonymize-ip: TRUE
 
   chapters:
     - index.qmd
-    - kapitler/intro.qmd
-    - part: "Generelle tips til mastergraden"
-      chapters:
-        - kapitler/tidsplan.qmd
-        - kapitler/sammenheng.qmd
-        - kapitler/veilederen.qmd
-        - kapitler/skrivefilosofi.qmd
-        - kapitler/generelle_skrivetips.qmd 
+    #- part: "Generelle tips til mastergraden"
+      #chapters:
+        #- kapitler/tidsplan.qmd
+        #- kapitler/sammenheng.qmd
+        #- kapitler/veilederen.qmd
+        #- kapitler/skrivefilosofi.qmd
+        #- kapitler/generelle_skrivetips.qmd 
     - part: "Tips til hvert kapittel"
       chapters:
         - kapitler/kap_introduksjon.qmd
@@ -36,9 +36,9 @@ book:
         - kapitler/kap_metode.qmd
         - kapitler/kap_resultat.qmd
         - kapitler/kap_diskusjon.qmd
-        - kapitler/kap_konklusjon.qmd
+        #- kapitler/kap_konklusjon.qmd
 
-    - kapitler/summary.qmd
+    #- kapitler/summary.qmd
     - references.qmd
 
 
@@ -49,12 +49,16 @@ format:
   html:
     number-depth: 1
     theme:
-      light: breezy
+      light: flatly
       dark: darkly
     link-external-newwindow: true
-      #pdf:
-      #number-depth: 1
-  docx:
-    toc: true
+  pdf:
+    documentclass: scrreprt
+    toc-depth: 1
+    toc-title: Innhold
+    biblio-title: Kilder
     number-depth: 1
-    link-citations: true
+  #docx:
+    #toc: true
+    #number-depth: 1
+    #link-citations: true

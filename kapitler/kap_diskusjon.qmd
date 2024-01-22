@@ -1,9 +1,8 @@
-# Diskusjo  -- opp til overflaten igjen (Uferdig)
+# Diskusjon -- opp til overflaten igjen
 
 I diskusjonen skal leseren skjønne betydningen av svarene på forskningsspørsmålene. Diskusjonen er som introduksjonen, den bør være forståelig for alle og bør være fengende for mange. Det blir den sjeldent, fordi studenter ikke går opp trappa igjen (@fig-trappa).
 
 Når du står på øverste trinn i trappa må du snakke slik at alle forstår deg. Her skal du være i introduksjonsdelen. Den bør kunne leses av alle, for eksempel en politiker eller en lærer. På trinnet nedenfor henvender du deg til andre som er mer spesielt interessert i tematikken du forsker på. Her finner du teori og metode. Mange gidder ikke høre på hva du sier her, men det bør være interessant for andre som forsker på liknende temaer. Nederste trinn er data og analyse. Her er du helt nede i den mørkeste kjelleren. Få eller ingen er interessert i lytte til alt du gjør her. Ettersom du går ned trappa blir språket du bruker mer og mer teknisk og snevrere og snevrere.
-
 
 ![Mastertrappa viser hva slags språk du skal benytte i hver del. 📷Vector images by macrovector_official on Freepik. Clipart by brgfx on Freepik. Cutouts used with permission from Microsoft.](figurer\trappa.png){#fig-trappa fig-alt="En trapp. På øverste trinn, merket 'Introduksjon', står en politiker, en lærer og en sjuåring. På trinnet nedenfor, merket 'Teori og metode', står to forskere og snakker sammen. På nederste trinn, merket 'Data og analyse', sitter en enslig forsker og ser ned i mikroskopet sitt. Deretter går trappa opp igjen gjennom trinnet 'Resultater' og til 'Diskusjon'."}
 
@@ -15,7 +14,7 @@ I stedet for å gå opp trappa igjen holder masterstudentene seg nede i kjellere
 
 Det verste er når man fremdeles benytter begreper og forkortelser fra analyseverktøyet:
 
-> Hos tre lærere var det høyere innslag av GOFU enn GOBA (18% mot 40%), og dette gjaldt spesielt i segmentene kodet som _Recursive ongoing discourse_. Dette strider mot tidligere funn i litteraturen, der det var ganske likt innslag og GOFU og GOBA i alle typer segmenter utenom _Directed conclusion_ (Nutty & Giln, 2001; Nutty, Giln & O'Riley, 2004).
+> Hos tre lærere var det høyere innslag av GOFU enn GOBA (18% mot 40%), og dette gjaldt spesielt i segmentene kodet som *Recursive ongoing discourse*. Dette strider mot tidligere funn i litteraturen, der det var ganske likt innslag og GOFU og GOBA i alle typer segmenter utenom *Directed conclusion* (Nutty & Giln, 2001; Nutty, Giln & O'Riley, 2004).
 
 Dette kommuniserer dårlig til omverdenen.
 
@@ -29,7 +28,7 @@ Eller kanskje ser studenten seg nødt til å vise mye til dataene, for eksempel 
 
 > Elever føler mer tilhørighet til klassen og lærer mer når læreren tar opp innspillene deres i helklassesamtaler (Dysthe, 2001). Dette samsvarer med Lærer 2 sitt utsagn om at "jeg synes liksom jeg merker at elevene sitter mer fremme i stolene sine når jeg sier ting som at 'husker dere Iben sitt argument?' Og da tror jeg eleven som blir nevnt også føler at det den sier er viktig."
 
-Dataene og analyseverktøyet er du ferdige med før du kommer til diskusjonskapittelet -- de ble jo benyttet til å besvare forskningsspørsmålene i resultatkapittelet. Derfor bør du ikke referere til dataen og analysen gjennom hele diskusjonen; referer heller til svarene på forskningsspørsmålene dine.  
+Dataene og analyseverktøyet er du ferdige med før du kommer til diskusjonskapittelet -- de ble jo benyttet til å besvare forskningsspørsmålene i resultatkapittelet. Derfor bør du ikke referere til dataen og analysen gjennom hele diskusjonen; referer heller til svarene på forskningsspørsmålene dine.
 
 Av og til benytter også studenten mye av diskusjonsdelen til å besvare forskningsspørsmålene. Da blir ikke plass igjen til noen diskusjon. [Besvar heller forskningsspørsmålene i resultatdelen](kap_resultat.html#sec-besvare).
 
@@ -40,41 +39,49 @@ Av og til benytter også studenten mye av diskusjonsdelen til å besvare forskni
 I diskusjonsdelen forteller du om betydningen av svarene på forskningsspørsmålene dine. Derfor må leseren ha friskt i minne hva svarene på forskningsspørsmålene er og hva de er bygget på. Derfor bør du oppsummere svarene på forskningsspørsmålene og de viktigste detaljene fra metoden. Her er et eksempel fra Rogne og kollegaer [-@rogne2021, s. 11]:
 
 > ### Drøfting
+>
 > #### Store forskjeller mellom elever
-> 
->Målet med denne studien er å studere hva som kjennetegner lese- og skriveferdighetene til elever ved skolestart på 1. trinn, med en vektlegging av elever som strever med bokstavkunnskap. Utvalget som er hentet fra 33 klasser i Norge, kan si noe om hva som kjennetegner lese- og skriveferdighetene til disse elevene. Hovedfunnene fra studien indikerer at det er store forskjeller mellom gruppe 1 (de ca. 20 % av elevene med lavest skår på variabelen bokstavkunnskap) og gruppe 2 (resten av elevgruppen), særlig på målene fremlydsanalyse og bokstavgjenkalling. Resultatene viser at det også er store forskjeller mellom de to gruppene når det gjelder alle de øvrige målene. Ettersom flere av målene innebærer elementer av fonologisk bevissthet på ulike måter, kan de store forskjellene mellom gruppene også forklares ettersom de alle er basert på forskjeller i bokstavkunnskap.
+>
+> Målet med denne studien er å studere hva som kjennetegner lese- og skriveferdighetene til elever ved skolestart på 1. trinn, med en vektlegging av elever som strever med bokstavkunnskap. Utvalget som er hentet fra 33 klasser i Norge, kan si noe om hva som kjennetegner lese- og skriveferdighetene til disse elevene. Hovedfunnene fra studien indikerer at det er store forskjeller mellom gruppe 1 (de ca. 20 % av elevene med lavest skår på variabelen bokstavkunnskap) og gruppe 2 (resten av elevgruppen), særlig på målene fremlydsanalyse og bokstavgjenkalling. Resultatene viser at det også er store forskjeller mellom de to gruppene når det gjelder alle de øvrige målene. Ettersom flere av målene innebærer elementer av fonologisk bevissthet på ulike måter, kan de store forskjellene mellom gruppene også forklares ettersom de alle er basert på forskjeller i bokstavkunnskap.
 
 I eksempelet nevnes forskningsspørsmålet, detaljer om metoden (at utvalget inneholder 33 klasser og ikke er generaliserbart) og svarene på forskningsspørsmålet. Det er en fin oppsummering.
 
+::: callout-warning
+## Unngå metodeord i diskusjonskapittelet
 
-::: {.callout-warning}
-## Metodeord i oppsummeringen
-Legg merke til at forfatterne benytter ord fra metoden,  slik som "gruppe 1", "gruppe 2", "skår på variabelen bokstavkunnskap" og "målene fremlydsanalyse og bokstavgjenkalling". Disse er spesifikke til metoden og ikke til svarene på forskningsspørsmålene og hører derfor ikke hjemme i diskusjonsdelen. Jeg ville endret slik:
+Legg merke til at forfatterne benytter ord fra metoden, slik som "gruppe 1", "gruppe 2", "skår på variabelen bokstavkunnskap" og "målene fremlydsanalyse og bokstavgjenkalling". Disse er spesifikke til metoden og ikke til svarene på forskningsspørsmålene og kommuniserer derfor dårlig i diskusjonsdelen. Jeg ville endret slik:
 
-|Original|Uten metodeord|
-|--|--|
-|Hovedfunnene fra studien indikerer at det er store forskjeller mellom gruppe 1 (de ca. 20 % av elevene med lavest skår på variabelen bokstavkunnskap) og gruppe 2 (resten av elevgruppen), særlig på målene fremlydsanalyse og bokstavgjenkalling.|Hovedfunnene fra studien er at det var store forskjeller mellom de 20% av elevene med lavest bokstavkunnskap og resten av elevene, særlig på fremlydsanalyse og bokstavgjenkalling.|
+| Original                                                                                                                                                                                                                                           | Uten metodeord                                                                                                                                                                      |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hovedfunnene fra studien indikerer at det er store forskjeller mellom gruppe 1 (de ca. 20 % av elevene med lavest skår på variabelen bokstavkunnskap) og gruppe 2 (resten av elevgruppen), særlig på målene fremlydsanalyse og bokstavgjenkalling. | Hovedfunnene fra studien er at det var store forskjeller mellom de 20% av elevene med lavest bokstavkunnskap og resten av elevene, særlig på fremlydsanalyse og bokstavgjenkalling. |
 :::
 
 Når leseren har forskningsspørsmålene, metoden og svarene på forskningsspørsmålet friskt i minne er hen klar til å lese diskusjonen din.
 
-### Skriv hva slags ny forståelse forskningsfeltet får fra masteren din
+### Diskusjonspunkter som kanskje hjelper deg opp trappa
 
-(Jeg har ennå ikke funnet en god måte å forklare. Men du kan 
+Følgende liste er inspirasjon til hva du kan diskutere. Listen er ikke komplett og en master trenger ikke å være innom alle punktene.
 
+1.  Skriv om den nye forståelsen masteren gir forskningsfeltet
 
-### Skriv hva du nå vet om punktene fra innledningen
+    Forhåpentligvis gir masteren din noe ny forståelse. Skriv hva dette er.
 
+2.  Skriv om punktene fra innledningen
 
-### Skriv hva du har lært om metoden
+    I [introduksjonskapittelet](kap-introduksjon.html#sec-introduksjon) nevnte du mange grunner for at masterprosjektet ditt var en god idé å gjøre. Diskuter disse! Hvis du skrev at "det er viktig å observere lærere som underviser livsmestring slik at gode undervisningspraksiser kan løftes frem og deles" så er det fint å skrive om du observerte noen undervisningspraksiser som kan løftes frem og deles. Eller kanskje synes du nå det var en dårlig idé? Diskuter det!
 
+3.  Skriv hva du har lært om metoden
 
-### Skriv hva praksisfeltet bør gjøre nå
-# Praksisfeltet betyr altså skoler, lærere, rektorer, skoleledere, skoleeier, PP-rådgiver og alle som jobber
+    Kanskje har du lært noe om metoden. Lagde du et nytt analyseverktøy? Diskuter hvordan det fungerte, hvordan det bør endres eller hva det kan brukes til videre. Fikk du for lite variasjon i elevintervjuene? Diskuter hvordan du kunne gjort utvalget annerledes.
 
+4.  Skriv hva praksisfeltet bør gjøre på bakgrunn av masteren din
 
-### Skriv hva forskere bør gjøre nå
-# Ikke bare skriv "gjøre en større studie for å vise om det generaliserer". Du er eksperten på dette feltet nå og kan foreslå hvordan en slik studie kan utformes. Hva slags utvalg bør gjøres? Hva slags forskningsdesign? Ikke bare skriv "utvikle en IKT-basert intervensjon for å se om dette kan øke motivasjonen", spesifiser også hva intervensjonen kan være.
+    Praksisfeltet betyr altså skoler, lærere, rektorer og sånt. Skriv hva slags innsikt de bør ta til seg fra masteren din. Intervjuet du elever som er redde for å snakke høyt i engelsktimen? Skriv om hvordan engelsklærere bør være bevisste de ulike grunnene elever har for å ikke ville snakke høyt i timen.
 
+5.  Skriv hva forskere bør gjøre fremover
 
+    Vær mer presis enn du tror. Å skrive at "videre forskning trengs" er alt for vagt. Ikke bare skriv at man bør "gjøre en større studie for å teste om resultatene generaliserer". Du er eksperten på dette feltet nå og kan foreslå hvordan en slik studie kan utformes. Hva slags utvalg bør gjøres? Hva slags forskningsdesign? Ikke bare skriv "utvikle en IKT-basert intervensjon for å sjekke om disse undervisningsmåtene kan øke motivasjonen", spesifiser også hva intervensjonen skal være.
 
+### Det gjør ikke noe om diskusjonsdelen er ganske kort
+
+Hvis du følger rådene i denne boka og besvarer forskningsspørsmålene i resultatdelen, trenger ikke diskusjonskapittelet å være lenger enn noen sider. Det er ikke vits i å skrive et veldig langt diskusjonskapittel. Master din har trolig ikke så store konsekvenser, ingen banebrytende oppdagelser, ingen omveltende konsekvenser for praksisfeltet, så da er det ikke så mye å diskutere. Hvis du ikke har besvart forskningsspørsmålene i resultatdelen, kan det hende diskusjonsdelen eser ut, men det er sjeldent en lur måte å skrive masteren på.
