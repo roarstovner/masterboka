@@ -1,4 +1,4 @@
-# Metode
+# Metode -- egentlig gankse enkelt.
 
 Metodekapittelet er enkelt, du skal bare forklare _hva du gjorde_ og _hvorfor_. _Hva du gjorde_ ser slik ut:
 

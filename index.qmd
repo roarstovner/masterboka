@@ -1,9 +1,15 @@
-# Om boka {.unnumbered}
+# Formålet med boka {.unnumbered}
 
-Boka er uferdig, men noen kapitler kan brukes. Enjoy!
+Jeg har veiledet masterstudenter og sensurert masteroppgaver siden 2016 og har alltid syntes masteroppgavene i lærerutdanningen har vært litt rare. De har en ok introduksjon, for vage forskningsspørsmål, en teoridel jeg nesten ikke skjønner vitsen med, en metodedel som på samme tid forklarer for mye og for lite, en resultatdel som ikke besvarer forskningsspørsmålene og en diskusjonsdel som fortvilet prøver å diskutere uten at forskningsspørsmålene er besvart.
+
+Hvert år sier jeg de samme tingene til masterstudentene mine og hvert år diskuterer jeg de samme tingene med medsensor. Derfor bestemte jeg meg for å skrive en bok som kan hjelpe.
+
+Boka er uferdig og utestet, men jeg håper du får nytte av den. Hvis du bruker den og liker den eller har forslag til forbedringer setter jeg pris på en epost til robast {alfakrøll} oslomet {punktum} no.
 
 ## Ombruk
 
-Bruk boka til hva du vil, så lenge du lenker tilbake til denne versjonen. Du kan benytte utdrag av boka, skrive den om, selge den og alt mulig annet, men du må tydelig sitere:
+Bruk boka til hva du vil, så lenge du lenker tilbake til denne versjonen. Du kan benytte utdrag av boka, skrive den om, selge den og alt mulig annet, men du må tydelig sitere, for eksempel slik som dette:
 
-[@stovner2023)
+Stovner, R. B. (2024). *Tips til masterskriving for lærerstudenter* (0.1.0). Quartopub. https://doi.org/10.5281/zenodo.10549518
+
+Boka er gitt ut under lisensen [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
