@@ -1,0 +1,241 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bedre masterskriving – en bok for lærerstudenter",
+    "section": "",
+    "text": "Formålet med boka\nJeg har veiledet masterstudenter og sensurert masteroppgaver siden 2016 og har alltid syntes masteroppgavene i lærerutdanningen har vært litt rare. De har en ok introduksjon, for vage forskningsspørsmål, en teoridel jeg nesten ikke skjønner vitsen med, en metodedel som på samme tid forklarer for mye og for lite, en resultatdel som ikke besvarer forskningsspørsmålene og en diskusjonsdel som fortvilet prøver å diskutere uten at forskningsspørsmålene er besvart.\nHvert år sier jeg de samme tingene til masterstudentene mine og hvert år diskuterer jeg de samme tingene med medsensor. Derfor bestemte jeg meg for å skrive en bok som kan hjelpe.\nBoka er uferdig og utestet, men jeg håper du får nytte av den. Hvis du bruker den og liker den eller har forslag til forbedringer setter jeg pris på en epost til robast {alfakrøll} oslomet {punktum} no.",
+    "crumbs": [
+      "Formålet med boka"
+    ]
+  },
+  {
+    "objectID": "index.html#ombruk",
+    "href": "index.html#ombruk",
+    "title": "Bedre masterskriving – en bok for lærerstudenter",
+    "section": "Ombruk",
+    "text": "Ombruk\nBruk boka til hva du vil, så lenge du lenker tilbake til denne versjonen. Du kan benytte utdrag av boka, skrive den om, selge den og alt mulig annet, men du må tydelig sitere, for eksempel slik som dette:\nStovner, R. B. (2024). Bedre masterskriving – en bok for lærerstudenter (0.1.0). Quartopub. https://doi.org/10.5281/zenodo.10549518\nBoka er gitt ut under lisensen CC-BY 4.0.",
+    "crumbs": [
+      "Formålet med boka"
+    ]
+  },
+  {
+    "objectID": "kapitler/kap_introduksjon.html",
+    "href": "kapitler/kap_introduksjon.html",
+    "title": "1  Introduksjon",
+    "section": "",
+    "text": "Dessverre ikke skrevet ennå. Stay tuned! Kommer tidlig i 2024.",
+    "crumbs": [
+      "Tips til hvert kapittel",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduksjon</span>"
+    ]
+  },
+  {
+    "objectID": "kapitler/kap_teori.html",
+    "href": "kapitler/kap_teori.html",
+    "title": "2  Teori – mer enn relevant og presis gjengivelse",
+    "section": "",
+    "text": "Vanlig og middelmådig teoridel\nI 99% av tilfellene er teoridelen den kjedeligste delen av masteroppgaven å lese, og alle kjedelige teorideler lider av samme sykdom: de er ikke koblet til resten av oppgaven. Problemet er ikke at teoridelene er upresise eller irrelevante; tvert imot, de kan være svært presise gjengivelser av teori som er høyst relevant for masteroppgaven din. Problemet er at teoridelen kunne vært klippet ut og limt inn i en hvilken som helst annen masteroppgave som dreier seg om de samme temaene. Dette holder ikke. Du må skrive teoridelen slik at leseren skjønner hvordan den hjelper deg med å besvare dine forskningsspørsmål, hvordan den påvirker dine metodiske valg, og hvordan den påvirker dine resultater.\nLa oss ta et eksempel. Vi tenker oss en masterstudent i matematikkdidaktikk som skal prøve å skape indre motivasjon for måling og måleenheter ved å ha uteskole i skogen med tredje trinn. Studenten har planlagt en haug med aktiviteter som skal suge elevene inn i måleenhetenes spennende verden.\nUtvalgte elever skal ha på seg kamera mens de gjør aktivitetene slik at studenten kan observere elevene og avgjøre om de er motiverte. I teoridelen har studenten planlagt å skrive om motivasjon, uteskole og didaktikk om måling og måleenheter. Teoridelen ser slik ut:\nDenne teoridelen oppfyller flere av funksjonene til en teoridel — for eksempel vil en slik teoridel definere begreper presist og gi leseren nok bakgrunnsinformasjon til å skjønne resten av oppgaven. Men denne teoridelen har én klar mangel; den er ikke koblet til forskningsspørsmålet og metoden. Den samme teoridelen kunne stått i masteroppgaven til en masterstudent som undersøker motivasjon, uteskole og måleenheter med helt andre forskningsspørsmål og metoder. Den kunne stått i oppgaven til en student som\nDisse masteroppgavene bør ikke ha samme teoridel. De blir bedre hvis du skreddersyr teoridelen til dem. Da må teoridelen knyttes til forskningsspørsmålene og til metoden.",
+    "crumbs": [
+      "Tips til hvert kapittel",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Teori -- mer enn relevant og presis gjengivelse</span>"
+    ]
+  },
+  {
+    "objectID": "kapitler/kap_teori.html#vanlig-og-middelmådig-teoridel",
+    "href": "kapitler/kap_teori.html#vanlig-og-middelmådig-teoridel",
+    "title": "2  Teori – mer enn relevant og presis gjengivelse",
+    "section": "Teori",
+    "text": "Sikkert moro å skrive master om uteskole. 📷Markus Spiske, Unsplash.com\n\n\n\n\n\n\n\n\n\nAdvarselMiddelmådig teoridel\n\n\n\nTeori\nI denne teoridelen skal jeg først presentere teori om motivasjon. Deretter skriver jeg om uteskole og hvordan man kan drive matematikkundervisning ute. Til slutt presenterer jeg teori om hvordan barn lærer måling og måleenheter og hvordan det kan undervises.\n\nMotivasjon\n[Presis oppsummering av relevant teori om motivasjon.]\n\n\nUteskole\n[Presis oppsummering av relevant teori om uteskole.]\n\n\nMåling og måleenheter\n[Presis oppsummering av relevant teori om måling og måleenheter.]\n\n\n\n\n\nspør elever om hvordan det var å gjøre måleaktiviteter på leirskole\ngjør en litteraturstudie om motivasjon for måling på uteskole\nintervjuer lærere som underviser måling på uteskole om elevenes motivasjon\n\n\n\n\n\n\n\n\nNoteKlikk for å lese hvorfor teoridelen bedre hvis den er spesifikt knyttet til forskningsspørsmålet og metoden?\n\n\n\n\n\nFordi\n\ndet gir leseren presis innsikt i hvordan du forstår begrepene. Det er nyttigere å lese om hva indre motivasjon er for barn på uteskole enn hva indre motivasjon er generelt.\ndet gir deg presis innsikt i hvordan du forstår begrepene. Å skrive en generell teoridel krever kun å parafrasere det forskere har skrevet før deg. Hvis du må knytte motivasjon til å observere barn på uteskole mens de gjør målingsaktiviteter må du tenke selv. Å knytte teorien til ditt forskningsspørsmål og din metode er derfor et redskap for å tenke klart.\nmasteren blir lettlest. I en vanlig teoridel må leseren lese mellom tre og fem tusen ord – det tar mellom 15 og 25 minutter – om generelle begreper. Dette er kjedelig! I tillegg må leseren hele tiden huske hva masteren din dreier seg om for å gi mening til det du skriver. Dette er krevende!\nmetoden og forskningsspørsmålet er påvirket av teorisynet ditt. Tenker du at elever er indre motivert for det de sier er gøy eller det de velger å leke med mens de skal gjøre måleaktiviteter på uteskole. I det første tilfellet bør du intervjue elever og i det andre bør du observere dem. Derfor velger man metode ut fra teorien.",
+    "crumbs": [
+      "Tips til hvert kapittel",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Teori -- mer enn relevant og presis gjengivelse</span>"
+    ]
+  },
+  {
+    "objectID": "kapitler/kap_teori.html#teori",
+    "href": "kapitler/kap_teori.html#teori",
+    "title": "2  Teori – mer enn relevant og presis gjengivelse",
+    "section": "",
+    "text": "I denne teoridelen skal jeg først presentere teori om motivasjon. Deretter skriver jeg om uteskole og hvordan man kan drive matematikkundervisning ute. Til slutt presenterer jeg teori om hvordan barn lærer måling og måleenheter og hvordan det kan undervises.\n\nMotivasjon\n[Presis oppsummering av relevant teori om motivasjon.]\n\n\nUteskole\n[Presis oppsummering av relevant teori om uteskole.]\n\n\nMåling og måleenheter\n[Presis oppsummering av relevant teori om måling og måleenheter.]",
+    "crumbs": [
+      "Tips til hvert kapittel",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Teori -- mer enn relevant og presis gjengivelse</span>"
+    ]
+  },
+  {
+    "objectID": "kapitler/kap_teori.html#hvordan-knytte-teoridelen-til-forskningsspørsmålet-og-metoden",
+    "href": "kapitler/kap_teori.html#hvordan-knytte-teoridelen-til-forskningsspørsmålet-og-metoden",
+    "title": "2  Teori – mer enn relevant og presis gjengivelse",
+    "section": "Hvordan knytte teoridelen til forskningsspørsmålet og metoden?",
+    "text": "Hvordan knytte teoridelen til forskningsspørsmålet og metoden?\n\nInnled med hvilke funksjoner teoridelen har i oppgaven din\nFor å knytte teoridelen din til resten av oppgaven må du finne ut hvilke funksjoner teorien har i resten av oppgaven. Dette er dessverre vanskelig og krever hardt, kreativt tankearbeid. Fordelen er at når du vet hvilke funksjoner teorien har i oppgaven din, er teoridelen lettere å skrive. (Og teoridelen er for de fleste den vanskeligste delen å skrive.)\nEn god øvelse er å skrive et avsnitt som ikke gjør annet enn å beskrive teoriens funksjoner i oppgaven din. Dette erstatter det vanlige avsnittet som innleder teorideler, “Først beskriver jeg teori om ditt. Deretter presenterer jeg to teorier om datt, før jeg avslutter med å beskrive dutt.”\nDet hadde vært fint om masterstudenten hadde klare nok tanker om teoridelen til at den kunne innledes med dette avsnittet:\n\nTeori\nSiden jeg skal måle elevenes motivasjon under en uteskole-intervensjon som krever samarbeid, baserer jeg meg på et sosiokulturelt perspektiv på motivasjon utviklet av Walker (2010). Hans definisjon av indre- og ytre motivasjon lar mer analysere motivasjon ved å se etter trekk i elevenes samtaler mens de arbeider. Deretter presenterer jeg to motstridende syn i litteraturen om uteskole: uteskole som en arena for målrettet læring eller en arena for fri utforsking. Min intervensjon benytter uteskole som en arena for målrettet læring, men jeg presenterer også uteskole som arena for fri utforsking fordi så små barn endrer alle arenaer til arenaer for fri utforsking uansett. Til slutt presenterer jeg prinsipper for hvordan elever kan oppnå dyp forståelse av måling. Jeg utformet intervensjonen basert på disse prinsippene og benytter dem for å analysere om forskjeller i indre motivasjon mellom gruppene kan skyldes at de i forskjellig grad tok del i aktiviter som bygger forståelse.\n[Deretter følger underkapitlene …]\n\nDette avsnittet presenterer ikke bare teorien som står i teorikapittelet, det presenterer også funksjonen teorien har i oppgaven. Du kan også se på det som begrunnelser for hvorfor du har tatt med teorien. Jeg ser på avsnittet som en programerklæring: “Dette er det jeg skal oppnå i teorikapittelet.”\nLegg merke til at noen av funksjonene gjelder metodedelen, for eksempel de to siste setningene. Andre funksjoner gjelder forskningsspørsmålene, for eksempel første setning.\nEt slikt innledningsavsnitt er en glimrende start, men du bør også skrive frem disse funksjonene i resten av teorikapittelet.\n\n\nBenytt eksempler som er tett knyttet til masteren din for å forklare teorien\nUnderveis i teorikapittelet benytter man ofte eksempler for å forklare begrepene man bruker. Knytt disse eksemplene til oppgaven din.\nNår du skriver om indre motivasjon bør du ikke bruke forslitte eksempler om å føle glede og spenning ved arbeidet; du bør eksemplifisere indre motivasjon for måling i uteskole. Du må skrive om iveren etter å finne ut hvor mange pinner høyt treet var og hvor mange blader man trenger for å dekke søledammen.\nFor å eksemplifisere ytre motivasjon må du for alt i verden ikke skrive om presset for å få gode karakterer. Elevene du undersøker går jo i tredjeklasse! Du må skrive om at elevene kanskje blir ytre motivert av å ville være første gruppe som er ferdig og springe først tilbake til læreren, at de har lyst til å få bedre målinger enn de andre gruppene, eller at de vil dekke søledammen med blader fordi det var gøy å få bladene til å flyte.\n\n\nSkriv mer informative overskrifter\nOverskriftene i den middelmådige teoridelen var “Motivasjon”, “Uteskole” og “Måling og måleenheter”. Disse overskriftene inviterer til å skrive for generelt og å ikke knytte teorien til din oppgave.\nHvis du har identifisert teorikapittelets funksjoner (Seksjon 2.2.1) bør det være mulig for deg å skrive mer informative overskrifter. Det er bare å bruke denne funksjonen som overskrift.\nDu kunne byttet ut\n\n“Motivasjon” med “En sosiokulturell forståelse av motivasjon”\n“Uteskole” med “Uteskole som arena for målrettet læring eller fri utforsking”\n“Måling og måleenheter” med “Prinsipper for læring av måling og måleenheter anvendt i en uteskole-setting”\n\nLeseren skjønner da hva delkapittelet forsøker å oppnå.\n\n\nIkke (bare) gjem deg bak andres ord – ta ordet selv\nHvis du følger rådene over mister du muligheten til å gjemme deg bak andres ord. I mange teorideler er avsnittene skrevet slik som dette:\n\nRyan & Deci (1989) sin motivasjonsteori sier at (…)\nI tillegg til dette skriver Wæge (2016) at motivasjon er (…)\nTil slutt viser forskning at motivasjon (…)\n\nHer gjemmer masterstudenten seg bak forfatterne. Det er som om masterstudenten ikke har noen egne tanker om temaet. Jeg mistenker masterstudenter gjør dette fordi de tenker funksjonen til teorikapittelet er å lære bort teorien til leseren. Du vet nå at teorikapittelet også må knytte masteroppgaven sammen, spesielt forskningsspørsmål og metode.\nHvis du leser avsnittet i Seksjon 2.2.1 ser du en tydelig “jeg-stemme”. Denne må få skinne i teorikapittelet. Teorikapittelet er ikke kun et sted hvor nedstøvede forfattere blir gjengitt (selv om det unektelig vil være hoveddelen av kapittelet). Teorikapittelet er også et sted hvor du forteller hvordan du forstår begrepene annerledes enn forfatterne, hvordon teorien påvirker metoden din, hvordan du synes de hjelper å besvare forskningsspørsmålet ditt.\nDu finner ingen artikler med ferdig teori for motivasjon om måling på uteskole. Du må skape den teoretiske syntesen selv. Andre kan ikke snakke for deg – du må ta ordet.",
+    "crumbs": [
+      "Tips til hvert kapittel",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Teori -- mer enn relevant og presis gjengivelse</span>"
+    ]
+  },
+  {
+    "objectID": "kapitler/kap_teori.html#videre-lesning",
+    "href": "kapitler/kap_teori.html#videre-lesning",
+    "title": "2  Teori – mer enn relevant og presis gjengivelse",
+    "section": "Videre lesning",
+    "text": "Videre lesning\nThomas Basbøll på youtube om hvordan man skriver teorikapittelet.",
+    "crumbs": [
+      "Tips til hvert kapittel",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Teori -- mer enn relevant og presis gjengivelse</span>"
+    ]
+  },
+  {
+    "objectID": "kapitler/kap_metode.html",
+    "href": "kapitler/kap_metode.html",
+    "title": "3  Metode – egentlig gankse enkelt.",
+    "section": "",
+    "text": "Skriv hva som gikk bra og ikke bra\nMetodekapittelet er enkelt, du skal bare forklare hva du gjorde og hvorfor. Hva du gjorde ser slik ut:\nHvorfor du gjorde det ser slik ut:\nDu får bedre begrunnelser for hvorfor hvis du også drøfter hvordan valgene kan påvirke resultatene dine negativt:\nMin erfaring er at studentene skriver ganske gode metodedeler og at det ikke volder dem alt for store kvaler. Tipsene jeg skriver om nedenfor er det derfor mange som ikke trenger å høre, men jeg nevner dem likevel.\nDet vekker tillit at man evaluerer hvordan utførelsen av metodene gikk. Det er én ting å si noe om hvorfor du valgte gruppeintervju, slik som over. Det er noe annet å si hvordan gruppeintervjuene gikk:\nMasterstudenter tenker ofte de ikke kan skrive slikt fordi det er “uvitenskapelig” eller at de da forteller om dataene før resultatdelen. Jeg synes man bør skrive slikt, spesielt i kvalitativ forskning. (Noen velger å skrive slikt i resultatdelen, og det er også greit.)\nDet er mange sider ved metoden som du kan evaluere og skrive hva som gikk bra og ikke. Kanskje var det vanskelig å analysere dataene som planlagt? Kanskje var det overraskende lett å rekruttere informanter og du fikk så mange henvendelser at du måtte gjøre en utvelgelse? Kanskje ble lyden dårlig? Kanskje streiket skjermopptaket av elevenes iPad halveis ut i økta? Kanskje sa en informant noe som var så interessant at du endret planene dine og la til et forskningsspørsmål? Skriv om slikt.",
+    "crumbs": [
+      "Tips til hvert kapittel",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Metode -- egentlig gankse enkelt.</span>"
+    ]
+  },
+  {
+    "objectID": "kapitler/kap_metode.html#skriv-hva-som-gikk-bra-og-ikke-bra",
+    "href": "kapitler/kap_metode.html#skriv-hva-som-gikk-bra-og-ikke-bra",
+    "title": "3  Metode – egentlig gankse enkelt.",
+    "section": "",
+    "text": "I tre av de fire gruppeintervjuene hadde deltakerne god dynamikk ved at de bygget på hverandres ideer og at alle kom til orde. I den siste gruppa var det to informanter med sterke personligheter som hadde mye på hjertet og to informanter som knapt kom til orde. Da jeg hørte på intervjuene innså jeg at jeg kunne ha gjort en bedre jobb med å delegere ordet til de to som ikke fikk sagt så mye. Det kan altså være at stemmene til elever som er stille og forsiktige ikke er representert godt i dataene.",
+    "crumbs": [
+      "Tips til hvert kapittel",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Metode -- egentlig gankse enkelt.</span>"
+    ]
+  },
+  {
+    "objectID": "kapitler/kap_metode.html#skriv-i-preteritum",
+    "href": "kapitler/kap_metode.html#skriv-i-preteritum",
+    "title": "3  Metode – egentlig gankse enkelt.",
+    "section": "Skriv i preteritum",
+    "text": "Skriv i preteritum\nOfte skriver masterstudenter metodedelen før resultatene er klare. Da blir det naturlig å skrive i presens (“jeg intervjuer fire lærere”), eller futurum, (“jeg skal intervjue fire lærere”). Det er fungerer godt rent språklig, men det er vanligere å skrive i preteritum (“jeg intervjuet fire lærere”). Fra leseren sitt perspektiv gir dessuten dette mer mening – masteroppgaven leses jo etter at den er ferdig.",
+    "crumbs": [
+      "Tips til hvert kapittel",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Metode -- egentlig gankse enkelt.</span>"
+    ]
+  },
+  {
+    "objectID": "kapitler/kap_metode.html#bruk-vanlig-oppbygning",
+    "href": "kapitler/kap_metode.html#bruk-vanlig-oppbygning",
+    "title": "3  Metode – egentlig gankse enkelt.",
+    "section": "Bruk vanlig oppbygning",
+    "text": "Bruk vanlig oppbygning\nMetodedelen er den mest skjematiske delen av vitenskapelige artikler, så leseren forventer den vanlige oppbygningen. Jeg har ikke inntrykk av at denne blir fortalt til masterstudenter noen gang, for de velger ofte en annen kreativ oppbygning. Her er den hemmelige oppbygningen du bør bruke:\nDesign Beskriv forskningsdesignet. (Kvalitativ intervjustudie? Casestudie? Kvantitativ tverrsnittsundersøkelse med spørreskjema? Action-research? Intervensjon eller ren observasjon?) Beskriv kanskje vitenskapsteoretisk ståsted (positivstisk? postmoderne? kritisk teori? feministisk?)\nKontekst og utvalg Beskriv relevant kontekst som læreplan, skoleforhold, hjemmeforhold, satsinger i kommunen. Beskriv relevant informasjon om utvalget. Har du mennesker i utvalget beskriver du hvordan du rekrutterte dem og antall, alder, kjønn, erfaring — alt du synes er relevant for forskningsspørsmålet. Hvis utvalget består av noe annet, for eksempel lærebøker, finner du sikkert ut av hva som er relevant å skrive om dem.\nDatainnsamling og prosedyrer Beskriv hva du rent praktisk gjorde da du samlet data. “Jeg samlet deltakerne i et grupperom på skolen der elevene gikk” eller “jeg lånte bøkene på biblioteket og fant alle kapitlene om tidlig leseopplæring” eller “jeg satt bakerst i klasserommet og observerte med penn og notatblokk”. Skriv hvordan det gikk, om deltakerne snakket lett under intervjuet, om det var vanskelig å skille ut tekstene om tidlig leseopplæring eller om at halve klassen gjorde aktiviteter på gangen slik at du ikke klarte å observere alle. Beskriv materialene du benyttet, slik som spørreundersøkelsen eller kunnskapstesten.\nAnalyse Beskriv hvordan du analyserte dataene. Se mer i ?sec-to-be-written.\nEtiske betraktninger\nForskningens troverdighet Her skriver du om reliabilitet og valididet eller gyldighet, pålitelighet og overførbarhet.\nDet finnes andre måter å skrive metodedelen på, for eksempel mer fortellende metodeler i etnografiske studier, men jeg tror de fleste masterstudenter bør bruke en oppbygning à la det ovenstående.",
+    "crumbs": [
+      "Tips til hvert kapittel",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Metode -- egentlig gankse enkelt.</span>"
+    ]
+  },
+  {
+    "objectID": "kapitler/kap_metode.html#du-trenger-ikke-å-skrive-metodelærebok-det-holder-å-beskrive-din-metode",
+    "href": "kapitler/kap_metode.html#du-trenger-ikke-å-skrive-metodelærebok-det-holder-å-beskrive-din-metode",
+    "title": "3  Metode – egentlig gankse enkelt.",
+    "section": "Du trenger ikke å skrive metodelærebok, det holder å beskrive din metode",
+    "text": "Du trenger ikke å skrive metodelærebok, det holder å beskrive din metode\nI starten av metodekapittelet skriver masterstudenter mye generelt vissvass som de parafraserer fra metodelærebøker.\n\nSamfunnsvitenskapelig forskning handler om å […]\nI samfunnsvitenskapene skiller man ofte mellom kvalitativ og kvantitativ metode […]\n\nDette er ikke spesifikt nok knyttet til oppgaven din til at det er interessant. Det er bedre å hoppe rett til å beskrive din metode og hvorfor du valgte den:\n\nJeg valgte en kvalitativ tilnærming fordi […]\n\nDet samme skjer ofte i delkapittelet om forskningens troverdighet der du skriver om validitet og reliabilitet og liknende. Leseren vet hva validitet og reliabitet er, så du kan hoppe rett på å diskutere din masteroppgave.\nDessverre har masteroppgaver et minimumskrav til antall ord man må skrive, og dette kravet er ofte skyhøyt. På lærerutdanningen på OsloMet må man skrive over 18 000 ord for å være innenfor kravet! Hvis du trenger å skrive flere ord kan du jo alltids skrive læreboka i metode i metodekapittelet ditt – jeg tror ikke det trekker ned karakteren.",
+    "crumbs": [
+      "Tips til hvert kapittel",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Metode -- egentlig gankse enkelt.</span>"
+    ]
+  },
+  {
+    "objectID": "kapitler/kap_metode.html#videre-lesning",
+    "href": "kapitler/kap_metode.html#videre-lesning",
+    "title": "3  Metode – egentlig gankse enkelt.",
+    "section": "Videre lesning",
+    "text": "Videre lesning\nJeg liker å se på APA sine “reporting guidelines” for om det er noe jeg har glemt i metodedelen. De har en for qualitative research og en for quantitative research. Kanskje verdt å se om noen av punktene under “Method” angår deg? (APA er forresten den største foreningen for de som forsker på psykologi i amerika. Det er de som lagde referansestilen du må bruke i alle oppgavene dine.)",
+    "crumbs": [
+      "Tips til hvert kapittel",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Metode -- egentlig gankse enkelt.</span>"
+    ]
+  },
+  {
+    "objectID": "kapitler/kap_resultat.html",
+    "href": "kapitler/kap_resultat.html",
+    "title": "4  Resultater – de skuffede forventningers kapittel",
+    "section": "",
+    "text": "Måter å besvare forskningsspørsmålene på\nÅ lese en typisk resultatdel fortoner seg slik som dette:\nJeg tror poenget med metaforen over er tydelig nok, men jeg kan da si det i klartekst også: resultatdelen må besvare forskningsspørsmålene. Joda, svarene på forskningsspørsmålene må underbygges med utdrag fra dataene og analysen. Men problemet med alt for mange masteroppgaver er at de kun serverer utdrag fra dataene og analysen. Uansett hvor mange utdrag fra dataene du pælmer oppi resultatdelen utgjør de ikke svar på forskningsspørsmålene.\nSå hvordan kan du besvare forskningsspørsmålene? Vel, på mange forskjellige måter, og det avhenger av hvilket forskningsdesign du har valgt. Jeg presenterer flere muligheter å presentere resultatene på, så får du velge noen og sette dem sammen på en måte som du er tilfreds med.\nLa oss si at du i masteren din har observert grupper av elever mens de gjør forsøk i naturfagstimen. Problemstillingen din dreier seg om hvordan naturfagsforsøk kan støtte elevenes skaperglede, engasjement og utforskertrang. Du har utarbeidet to forskningsspørsmål:\nNå skal du ikke bare drone i vei med detaljer fra analysen, du skal besvare forskningsspørsmålene for leseren. Kanskje på disse måtene:",
+    "crumbs": [
+      "Tips til hvert kapittel",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Resultater -- de skuffede forventningers kapittel</span>"
+    ]
+  },
+  {
+    "objectID": "kapitler/kap_resultat.html#sec-besvare",
+    "href": "kapitler/kap_resultat.html#sec-besvare",
+    "title": "4  Resultater – de skuffede forventningers kapittel",
+    "section": "",
+    "text": "Hvordan kommer elevenes skaperglede, engasjement og utforskertrang til uttrykk i forberedelses-, undersøkelses- og konsolideringsfasen av eksperimentet?\nHva gjør læreren for å fremme skaperglede, engasjement og utforskertrang?\nHvorfor synes elevene eksperimentet (ikke) var engasjerende?\n\n\n\n1. En underoverskrift per forskningsspørsmål\nLeseren blir hjulpet i gang hvis du har en underoverskrift per forskningsspørsmål. En måte er å bare gjenta forskningsspørsmålet i underoverskriften. En annen måten er å gjøre om forskningsspørsmålet til en påstand, altså å endre “hva gjør læreren for å fremme skaperglede, engasjement og utforskertrang?” til “hva læreren gjorde for å fremme skaperglede, engasjement og utforskertrang”.\nUnder hver underoverskrift besvarer du ganske enkelt det tilhørende forskningsspørsmålet ved å vise utdrag fra analysen.\nEt godt eksempel på en resultatdel som har underoverskrifter for hvert forskningsspørsmål er Marianne Aasland sin (Aasland, 2023). Sammenlikn forskningsspørsmålene på s. 9-ish med underoverskriftene hennes på s. 36–51-ish. Ingen tvil om at hun besvarer forskningsspørsmålene og har en oppgave med god sammenheng.\n\n\n2. En underoverskrift per hovedresultat\nEn annen måte å hjelpe leseren på er å ha en underoverskrift per hovedresultat. (I forrige delkapittel var det en underoverskrift per spørsmål, ikke per resultat.) Jeg gir noen eksempler:\n\nI forberedelsesfasen viste elevene utforskertrang ved å høylytt spekulere om ulike hypoteser\nI undersøkelsesfasen viste elevene skaperglede da de løste problemer med utstyret\nAndre elever mistet engasjementet fordi utstyret ikke fungerte\nI utforskningsfasen støttet læreren ikke elevenes skaperglede, engasjement og utforskertrang fordi hun var opptatt med å bistå elevene med utstyret\n\nUnder hver av disse overskriftene viser du utsnitt fra dataene og analysen som underbygger at dataene dine viser det du sier de viser. Slike overskrifter kan bli ganske lange, men det synes jeg ikke gjør noe, de er jo kjempeinformative – hver av dem er en sentral del av hvordan du besvarer forskningsspørsmålet.\nDu kan kombinere underoverskrifter for forskningsspørsmålene og for hovedresultatene. Ha underoverskrifter for forskningsspørsmålene og under-underoverskrifter for hovedresultatene, slik som dette:\n\nHvordan elevenes skaperglede, engasjement og utforskertrang kommer til uttrykk i forberedelses-, undersøkelses- og konsolideringsfasen\n\nI forberedelsesfasen viste elevene utforskertrang ved å høylytt spekulere om ulike hypoteser\nI undersøkelsesfasen viste elevene skaperglede da de løste problemer med utstyret\nAndre elever mistet engasjementet fordi utstyret ikke fungerte\n…\n\nHva læreren gjorde for å fremme skaperglede, engasjement og utforskertrang\n\nI utforskningsfasen støttet læreren ikke elevenes skaperglede, engasjement og utforskertrang fordi hun var opptatt med å bistå elevene med utstyret\n…\n\nHvordan synes elevene eksperimentet (ikke) var engasjerende?\n\n…\n\n\n\n\n\n\n\n\nFINN EKSEMPEL!!\n\n\n\n\n\n3. Oppsummer på slutten\nDet kan være du nå tenker noe slikt som dette:\n\n“Stopp en halv! Burde man ikke skrive om klassens arbeid med forsøket fra start til slutt? Dine forslag vil bryte opp flyten! Ved å først besvare første forskningsspørsmål om elevene og deretter andre forskningsspørsmål om læreren vil leseren miste dyrebar informasjon om gangen i timen og hvordan alt henger sammen!”\n\nDette er en herlig tanke! Det kan absolutt være helt korrekt! Derfor må du tilpasse resultatdelen til forskningsdesignet ditt! Men det fraskriver deg ikke ansvaret for at leseren må få vite svarene på forskningsspørsmålene i resultatdelen.\nEn nødløsning som kan fungere ganske godt, er å ha en del på slutten av resultatdelen der du oppsummerer forskningsspørsmålene. Du kan se på masteren til Geitle (2022, s. 52-53) for et eksempel. Han har fortalt om dataene og analysen i kronologisk rekkefølge (s. 42-52). Etter å ha lest disse sidene er det mildt sagt uklart hva svarene på forskningsspørsmålene er, men heldigvis kommer “Oppsummering av sentrale funn” på side 52. 1\n\n\n4. Velg forskningsspørsmål som er lette å besvare\nEnkelte forskningsspørsmål innbyr til å bli tydelig besvart, og andre innbyr til å bli ullent besvart. La oss vurdere det tredje forskningsspørsmålet over:\n\n\nHvorfor synes elevene eksperimentet (ikke) var engasjerende?\n\n\nDette forsningsspørsmålet inviterer til å gjengi masse utdrag fra intervjuer med elevene, og kanskje står man igjen på slutten uten at forskningsspørsmålet er tydelig besvart.\nSammenlikn med denne varianten av samme forskningsspørsmål:\n\n\nHvilke grunner oppgir elevene for at eksperimentet (ikke) var engasjerende?\n\n\nDenne varianten inviterer til å skrive “Elevene oppga sju grunner til at eksperimentet var engasjerende og fire grunner til at det ikke var engasjerende” og deretter presentere alle grunnene med utdrag fra analysen som oppbakking. Fordi man har byttet ut det litt vage “hvorfor” med det veldig konkrete “hvilke grunner” blir det lettere å skrive konkrete resultater.\nSe for eksempel på mastergraden til Rhea Liang Liang et al. (2019). Forskningsspørsmålet hennes er “Hvorfor slutter kvinnelige kirurger i løpet av spesialiseringen?”, men hun har besvart forskningsspørsmålet ved å identifisere faktorer som påvirker kvinner til å slutte. Hun har altså gjort det litt vage “hvorfor” om til det veldig konkrete “hvilke faktorer påvirker”.2\n\n\n5. Lag en tabell som oppsummerer funnene\nEn tabell (eller en figur) kan i noen tilfeller gi god oversikt over funnene og hjelpe leseren med å skjønne hva svarene på forskningsspørsmålene er.\nDet første forskningsspørsmålet var ganske omfattende:\n\n\nHvordan kommer elevenes skaperglede, engasjement og utforskertrang til uttrykk i forberedelses-, undersøkelses- og konsolideringsfasen av eksperimentet?\n\n\nHer kan man gi leseren oversikt over de relevante funnene ved å lage en tabell:\n\n\n\nTabell 4.1: Hvordan elevenes skaperglede og engasjement og utforskertrang kom til uttrykk i de forskjellige fasene\n\n\n\n\n\n\n\n\n\n\nForberedelse\nUndersøkelse\nKonsolidering\n\n\n\n\nSpekulere høylytt\nLøse problemer med utstyret\nGjespe\n\n\nLe over ville hypoteser\nGi opp på grunn av problemer med utstyret\nSpørre når det er friminutt\n\n\nKrangle om hvilken hypotese som er best\nLegge hypotesen til side og finne ut hvorfor pæra fortsetter å lyse når Petters finger seriekobles til kretsen\n\n\n\n\n\n\n\n\n\n\n\n\nLiang Liang et al. (2019) sin master, som jeg nevnte i forrige delkapittel, har forresten også gode eksempler på slike tabeller.",
+    "crumbs": [
+      "Tips til hvert kapittel",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Resultater -- de skuffede forventningers kapittel</span>"
+    ]
+  },
+  {
+    "objectID": "kapitler/kap_resultat.html#men-dette-er-ikke-nok",
+    "href": "kapitler/kap_resultat.html#men-dette-er-ikke-nok",
+    "title": "4  Resultater – de skuffede forventningers kapittel",
+    "section": "Men dette er ikke nok …",
+    "text": "Men dette er ikke nok …\nJeg håper du har fått hjelp av noen av tipsene, men dessverre er ikke tipsene tilstrekkelige. Brødteksten3 må også hjelpe leseren med å forstå hvordan du besvarer forskningsspørsmålene. Jeg har ikke noe vettugt å si om dette, men jeg håper at skremselsbildet fra innledningen, om resultatdelen som prater om analyse ditt og analyse datt og aldri kommer til poenget, hjelper deg med å skrive en tekst som faktisk kommer til poenget, altså besvarer forskningsspørsmålene.\n\n\n\n\nAasland, M. (2023). En kartlegging av elevers hoderegningsstrategier i divisjon på femte og tiende trinn [Master’s thesis]. Oslomet - storbyuniversitetet.\n\n\nGeitle, E. H. (2022). Livsmestring i matematikk gjennom et tverrfaglig undervisningsopplegg på ungdomstrinnet - En kvalitativ stuide av tre lærers erfaring og av matematikkundervisning [Master’s thesis]. In 87. OsloMet - Storbyuniversitetet.\n\n\nLiang, R., Dornan, T., & Nestel, D. (2019). Why do women leave surgical training? A qualitative and feminist study. The Lancet, 393(10171), 541–549. https://doi.org/10.1016/S0140-6736(18)32612-6",
+    "crumbs": [
+      "Tips til hvert kapittel",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Resultater -- de skuffede forventningers kapittel</span>"
+    ]
+  },
+  {
+    "objectID": "kapitler/kap_resultat.html#footnotes",
+    "href": "kapitler/kap_resultat.html#footnotes",
+    "title": "4  Resultater – de skuffede forventningers kapittel",
+    "section": "",
+    "text": "Hvis du vil være veldig kritisk kan du sammenlikne forskningsspørsmålene hans (s. 13) med funnene hans. Ser du at funnene ikke svarer på forskningsspørsmålene? Dette er vanlig. Det er dette jeg mener med at “sammenheng er sneaky”, se (sammenheng?).\nHvis du leser dette Mr. Geitle: Jeg synes masteren din er knall! Jeg har til og med referert til den på s. 26 her.↩︎\nDette er blant mine favorittmastere. Den ble publisert i The Lancet, et topp-tidsskrift innen medisin!↩︎\nBrødtekst er all den “vanlige” teksten, altså all teksten som avsnittene dine består av.↩︎",
+    "crumbs": [
+      "Tips til hvert kapittel",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Resultater -- de skuffede forventningers kapittel</span>"
+    ]
+  },
+  {
+    "objectID": "kapitler/kap_diskusjon.html",
+    "href": "kapitler/kap_diskusjon.html",
+    "title": "5  Diskusjon – opp til overflaten igjen",
+    "section": "",
+    "text": "Hva gjør studenter i stedet for å gå opp trappa igjen?\nI diskusjonen skal leseren skjønne betydningen av svarene på forskningsspørsmålene. Diskusjonen er som introduksjonen, den bør være forståelig for alle og bør være fengende for mange. Det blir den sjeldent, fordi studenter ikke går opp trappa igjen (Figur 5.1).\nNår du står på øverste trinn i trappa må du snakke slik at alle forstår deg. Her skal du være i introduksjonsdelen. Den bør kunne leses av alle, for eksempel en politiker eller en lærer. På trinnet nedenfor henvender du deg til andre som er mer spesielt interessert i tematikken du forsker på. Her finner du teori og metode. Mange gidder ikke høre på hva du sier her, men det bør være interessant for andre som forsker på liknende temaer. Nederste trinn er data og analyse. Her er du helt nede i den mørkeste kjelleren. Få eller ingen er interessert i lytte til alt du gjør her. Ettersom du går ned trappa blir språket du bruker mer og mer teknisk og snevrere og snevrere.\nÅ gå ned trappa er masterstudenter flinke til. De får problemer først når de skal gå opp igjen og henvende seg til verden på nytt.\nI stedet for å gå opp trappa igjen holder masterstudentene seg nede i kjelleren gjennom resultatdelen og diskusjonsdelen. Her babler de videre i et teknisk språk som benytter ord fra analyseverktøyet og utdrag fra dataene og som ikke kommuniserer til et bredere publikum.\nDet verste er når man fremdeles benytter begreper og forkortelser fra analyseverktøyet:\nDette kommuniserer dårlig til omverdenen.\nÅ ditche det tekniske språket er et godt første steg, men man er ennå ikke nådd toppen av trappa. Hvis man bare diskuterer småting fra analysen og dataene blir diskusjonskapittelet en forvirrende gjennomgang av mange små bruddstykker fra dataene og hvordan disse relaterer til tidligere litteratur. Kanskje slik som dette:\nDette viser ikke betydningen av resultatene dine.\nEller kanskje ser studenten seg nødt til å vise mye til dataene, for eksempel gjennom transkripsjoner:\nDataene og analyseverktøyet er du ferdige med før du kommer til diskusjonskapittelet – de ble jo benyttet til å besvare forskningsspørsmålene i resultatkapittelet. Derfor bør du ikke referere til dataen og analysen gjennom hele diskusjonen; referer heller til svarene på forskningsspørsmålene dine.\nAv og til benytter også studenten mye av diskusjonsdelen til å besvare forskningsspørsmålene. Da blir ikke plass igjen til noen diskusjon. Besvar heller forskningsspørsmålene i resultatdelen.",
+    "crumbs": [
+      "Tips til hvert kapittel",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Diskusjon -- opp til overflaten igjen</span>"
+    ]
+  },
+  {
+    "objectID": "kapitler/kap_diskusjon.html#hva-gjør-studenter-i-stedet-for-å-gå-opp-trappa-igjen",
+    "href": "kapitler/kap_diskusjon.html#hva-gjør-studenter-i-stedet-for-å-gå-opp-trappa-igjen",
+    "title": "5  Diskusjon – opp til overflaten igjen",
+    "section": "",
+    "text": "Hos tre lærere var det høyere innslag av GOFU enn GOBA (18% mot 40%), og dette gjaldt spesielt i segmentene kodet som Recursive ongoing discourse. Dette strider mot tidligere funn i litteraturen, der det var ganske likt innslag og GOFU og GOBA i alle typer segmenter utenom Directed conclusion (Nutty & Giln, 2001; Nutty, Giln & O’Riley, 2004).\n\n\n\n\nAnalysen viste at lærer Geir så på glosepugging som nødvendige hjemmelekser. Dette samsvarer med Delani & Nosa (2018), som så det samme hos engelsklærere i Spania, men er ulikt Johannsons (1992) studie i Sverige. Men Geirs oppfatning av av at glosepugging ikke var tilstrekkelig for språkutviklingen samsvarer godt med Johannson (1992).\n\n\n\n\nElever føler mer tilhørighet til klassen og lærer mer når læreren tar opp innspillene deres i helklassesamtaler (Dysthe, 2001). Dette samsvarer med Lærer 2 sitt utsagn om at “jeg synes liksom jeg merker at elevene sitter mer fremme i stolene sine når jeg sier ting som at ‘husker dere Iben sitt argument?’ Og da tror jeg eleven som blir nevnt også føler at det den sier er viktig.”",
+    "crumbs": [
+      "Tips til hvert kapittel",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Diskusjon -- opp til overflaten igjen</span>"
+    ]
+  },
+  {
+    "objectID": "kapitler/kap_diskusjon.html#hvordan-gå-opp-trappa",
+    "href": "kapitler/kap_diskusjon.html#hvordan-gå-opp-trappa",
+    "title": "5  Diskusjon – opp til overflaten igjen",
+    "section": "Hvordan gå opp trappa?",
+    "text": "Hvordan gå opp trappa?\n\nStart diskusjonsdelen med å oppsummere svarene på forskningsspørsmålene og noe om metoden\nI diskusjonsdelen forteller du om betydningen av svarene på forskningsspørsmålene dine. Derfor må leseren ha friskt i minne hva svarene på forskningsspørsmålene er og hva de er bygget på. Derfor bør du oppsummere svarene på forskningsspørsmålene og de viktigste detaljene fra metoden. Her er et eksempel fra Rogne og kollegaer (2021, s. 11):\n\nDrøfting\nStore forskjeller mellom elever\nMålet med denne studien er å studere hva som kjennetegner lese- og skriveferdighetene til elever ved skolestart på 1. trinn, med en vektlegging av elever som strever med bokstavkunnskap. Utvalget som er hentet fra 33 klasser i Norge, kan si noe om hva som kjennetegner lese- og skriveferdighetene til disse elevene. Hovedfunnene fra studien indikerer at det er store forskjeller mellom gruppe 1 (de ca. 20 % av elevene med lavest skår på variabelen bokstavkunnskap) og gruppe 2 (resten av elevgruppen), særlig på målene fremlydsanalyse og bokstavgjenkalling. Resultatene viser at det også er store forskjeller mellom de to gruppene når det gjelder alle de øvrige målene. Ettersom flere av målene innebærer elementer av fonologisk bevissthet på ulike måter, kan de store forskjellene mellom gruppene også forklares ettersom de alle er basert på forskjeller i bokstavkunnskap.\n\nI eksempelet nevnes forskningsspørsmålet, detaljer om metoden (at utvalget inneholder 33 klasser og ikke er generaliserbart) og svarene på forskningsspørsmålet. Det er en fin oppsummering.\n\n\n\n\n\n\nAdvarselUnngå metodeord i diskusjonskapittelet\n\n\n\nLegg merke til at forfatterne benytter ord fra metoden, slik som “gruppe 1”, “gruppe 2”, “skår på variabelen bokstavkunnskap” og “målene fremlydsanalyse og bokstavgjenkalling”. Disse er spesifikke til metoden og ikke til svarene på forskningsspørsmålene og kommuniserer derfor dårlig i diskusjonsdelen. Jeg ville endret slik:\n\n\n\n\n\n\n\nOriginal\nUten metodeord\n\n\n\n\nHovedfunnene fra studien indikerer at det er store forskjeller mellom gruppe 1 (de ca. 20 % av elevene med lavest skår på variabelen bokstavkunnskap) og gruppe 2 (resten av elevgruppen), særlig på målene fremlydsanalyse og bokstavgjenkalling.\nHovedfunnene fra studien er at det var store forskjeller mellom de 20% av elevene med lavest bokstavkunnskap og resten av elevene, særlig på fremlydsanalyse og bokstavgjenkalling.\n\n\n\n\n\nNår leseren har forskningsspørsmålene, metoden og svarene på forskningsspørsmålet friskt i minne er hen klar til å lese diskusjonen din.\n\n\nDiskusjonspunkter som kanskje hjelper deg opp trappa\nFølgende liste er inspirasjon til hva du kan diskutere. Listen er ikke komplett og en master trenger ikke å være innom alle punktene.\n\nSkriv om den nye forståelsen masteren gir forskningsfeltet\nForhåpentligvis gir masteren din noe ny forståelse. Skriv hva dette er.\nSkriv om punktene fra innledningen\nI introduksjonskapittelet nevnte du mange grunner for at masterprosjektet ditt var en god idé å gjøre. Diskuter disse! Hvis du skrev at “det er viktig å observere lærere som underviser livsmestring slik at gode undervisningspraksiser kan løftes frem og deles” så er det fint å skrive om du observerte noen undervisningspraksiser som kan løftes frem og deles. Eller kanskje synes du nå det var en dårlig idé? Diskuter det!\nSkriv hva du har lært om metoden\nKanskje har du lært noe om metoden. Lagde du et nytt analyseverktøy? Diskuter hvordan det fungerte, hvordan det bør endres eller hva det kan brukes til videre. Fikk du for lite variasjon i elevintervjuene? Diskuter hvordan du kunne gjort utvalget annerledes.\nSkriv hva praksisfeltet bør gjøre på bakgrunn av masteren din\nPraksisfeltet betyr altså skoler, lærere, rektorer og sånt. Skriv hva slags innsikt de bør ta til seg fra masteren din. Intervjuet du elever som er redde for å snakke høyt i engelsktimen? Skriv om hvordan engelsklærere bør være bevisste de ulike grunnene elever har for å ikke ville snakke høyt i timen.\nSkriv hva forskere bør gjøre fremover\nVær mer presis enn du tror. Å skrive at “videre forskning trengs” er alt for vagt. Ikke bare skriv at man bør “gjøre en større studie for å teste om resultatene generaliserer”. Du er eksperten på dette feltet nå og kan foreslå hvordan en slik studie kan utformes. Hva slags utvalg bør gjøres? Hva slags forskningsdesign? Ikke bare skriv “utvikle en IKT-basert intervensjon for å sjekke om disse undervisningsmåtene kan øke motivasjonen”, spesifiser også hva intervensjonen skal være.\n\n\n\nDet gjør ikke noe om diskusjonsdelen er ganske kort\nHvis du følger rådene i denne boka og besvarer forskningsspørsmålene i resultatdelen, trenger ikke diskusjonskapittelet å være lenger enn noen sider. Det er ikke vits i å skrive et veldig langt diskusjonskapittel. Master din har trolig ikke så store konsekvenser, ingen banebrytende oppdagelser, ingen omveltende konsekvenser for praksisfeltet, så da er det ikke så mye å diskutere. Hvis du ikke har besvart forskningsspørsmålene i resultatdelen, kan det hende diskusjonsdelen eser ut, men det er sjeldent en lur måte å skrive masteren på.\n\n\n\n\nRogne, W. M., Gamlem, S. M., & Ottesen, R. L. (2021). Lese- og skriveferdigheter ved oppstart i 1. klasse med vekt på bokstavkunnskap. Acta Didactica Norden, 15(1). https://doi.org/10.5617/adno.8327",
+    "crumbs": [
+      "Tips til hvert kapittel",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Diskusjon -- opp til overflaten igjen</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "Kilder",
+    "section": "",
+    "text": "Aasland, M. (2023). En kartlegging av elevers\nhoderegningsstrategier i divisjon på femte og tiende\ntrinn [Master’s thesis]. Oslomet - storbyuniversitetet.\n\n\nGeitle, E. H. (2022). Livsmestring i matematikk gjennom et\ntverrfaglig undervisningsopplegg på ungdomstrinnet - En\nkvalitativ stuide av tre lærers erfaring og av\nmatematikkundervisning [Master’s thesis]. In 87. OsloMet\n- Storbyuniversitetet.\n\n\nLiang, R., Dornan, T., & Nestel, D. (2019). Why do women leave\nsurgical training? A qualitative and feminist study.\nThe Lancet, 393(10171), 541–549. https://doi.org/10.1016/S0140-6736(18)32612-6\n\n\nRogne, W. M., Gamlem, S. M., & Ottesen, R. L. (2021). Lese- og\nskriveferdigheter ved oppstart i 1. klasse med vekt på\nbokstavkunnskap. Acta Didactica Norden, 15(1).\nhttps://doi.org/10.5617/adno.8327",
+    "crumbs": [
+      "Kilder"
+    ]
+  }
+]
