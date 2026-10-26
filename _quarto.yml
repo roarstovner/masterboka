@@ -14,8 +14,8 @@ book:
     left: Boka er skrevet av Roar Bakken Stovner og utgitt som [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
     right: Boka er skrevet med <a href="https://quarto.org/">Quarto</a>
 
-  site-url: https://robast.quarto.pub/mastertips/
-  #repo-url: https://codeberg.org/hocolim/masterboka
+  site-url: https://masterboka.roarstovner.no
+  repo-url: https://github.com/roarstovner/masterboka
 
   google-analytics: "G-917RCTRH1N"
       #anonymize-ip: TRUE
